@@ -5,45 +5,45 @@ repo: octubre-upptime # The name of this repository
 sites:
   - name: Ahora+ Test
     url: https://testrrhh.octubre.org.ar/api/health
-  - name: CAD
+  - name: CAD (cad.fateryh.org.ar)
     url: https://cad.fateryh.org.ar/api/health
-  - name: OctubreOSPERYH
+  - name: OctubreOSPERYH (octubre.osperyh.org.ar)
     url: https://octubre.osperyh.org.ar/api/health
-  - name: OSRA
+  - name: OSRA (octubre.osperyhra.org.ar)
     url: https://octubre.osperyhra.org.ar/api/health
-  #- name: OSRA 2
+  #- name: OSRA 2 (octubre2.osperyhra.org.ar)
   #  url: https://octubre2.osperyhra.org.ar/api/health
-  #- name: Cajas 2
+  #- name: Cajas 2 (cajas2.octubre.osperyh.org.ar)
   #  url: https://cajas2.octubre.osperyh.org.ar/api/health
-  - name: Mepadip
+  - name: Mepadip (octubre.mepadip.com.ar)
     url: https://octubre.mepadip.com.ar/api/health
-  - name: ISSA
+  - name: ISSA (issa.edificarseguros.com.ar)
     url: https://issa.edificarseguros.com.ar/api/health
-  - name: GUAU
+  - name: GUAU (guau.umet.edu.ar)
     url: https://guau.umet.edu.ar/api/health
-  - name: SIGA
+  - name: SIGA (siga.octubre.org.ar)
     url: https://siga.octubre.org.ar/api/health
   #- name: Mi Seguro App - redirecciona a index app
   #  url: https://miseguro.edificarseguros.com.ar/api/health
-  - name: Mi Obra App
+  - name: Mi Obra App (miobra.osperyh.org.ar)
     url: https://miobra.osperyh.org.ar/api/health
-  - name: Mi Web App
+  - name: Mi Web App (miweb.umet.edu.ar)
     url: https://miweb.umet.edu.ar/api/health
-  - name: Ahora+
+  - name: Ahora+ (rrhh.octubre.org.ar)
     url: https://rrhh.octubre.org.ar/api/health
-  - name: OSRA App
+  - name: OSRA App (app.osperyhra.org.ar)
     url: https://app.osperyhra.org.ar/api/health
-  - name: ISSA App
+  - name: ISSA App (app.edificarseguros.com.ar)
     url: https://app.edificarseguros.com.ar/api/health
-  - name: SERACARH
+  - name: SERACARH (intranet.seracarh.org.ar)
     url: http://intranet.seracarh.org.ar/api/health
-  - name: Arrabaleros
+  - name: Arrabaleros (arrabal.sportivobarracas.com.ar)
     url: http://arrabal.sportivobarracas.com.ar/api/health
-  #- name: El Trineo
+  #- name: El Trineo (eltrineo.suterh.org.ar)
   #  url: https://eltrineo.suterh.org.ar/api/health
-  #- name: Helios
-  #  url: https://helios.osperyh.org.ar/api/health
-  - name: Fateryh
+  - name: Helios (helios.osperyh.org.ar)
+    url: https://helios.osperyh.org.ar/health
+  - name: Fateryh (octubre.fateryh.org.ar)
     url: https://octubre.fateryh.org.ar/api/health    
 
 status-website:
@@ -57,7 +57,7 @@ status-website:
   introMessage: Página de estado de servicios
   navbar:
     - title: Status
-      href: /
+      href: /octubre-upptime/
     - title: Reportar incidente
       href: https://incidentes.octubre.org.ar/
 
