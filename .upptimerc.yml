@@ -9,6 +9,42 @@ sites:
     url: https://cad.fateryh.org.ar/api/health
   - name: OctubreOSPERYH
     url: https://octubre.osperyh.org.ar/api/health
+  - name: OSRA
+    url: https://octubre.osperyhra.org.ar/api/health
+  #- name: OSRA 2
+  #  url: https://octubre2.osperyhra.org.ar/api/health
+  #- name: Cajas 2
+  #  url: https://cajas2.octubre.osperyh.org.ar/api/health
+  - name: Mepadip
+    url: https://octubre.mepadip.com.ar/api/health
+  - name: ISSA
+    url: https://issa.edificarseguros.com.ar/api/health
+  - name: GUAU
+    url: https://guau.umet.edu.ar/api/health
+  - name: SIGA
+    url: https://siga.octubre.org.ar/api/health
+  #- name: Mi Seguro App - redirecciona a index app
+  #  url: https://miseguro.edificarseguros.com.ar/api/health
+  - name: Mi Obra App
+    url: https://miobra.osperyh.org.ar/api/health
+  - name: Mi Web App
+    url: https://miweb.umet.edu.ar/api/health
+  - name: Ahora+
+    url: https://rrhh.octubre.org.ar/api/health
+  - name: OSRA App
+    url: https://app.osperyhra.org.ar/api/health
+  - name: ISSA App
+    url: https://app.edificarseguros.com.ar/api/health
+  - name: SERACARH
+    url: http://intranet.seracarh.org.ar/api/health
+  - name: Arrabaleros
+    url: http://arrabal.sportivobarracas.com.ar/api/health
+  #- name: El Trineo
+  #  url: https://eltrineo.suterh.org.ar/api/health
+  #- name: Helios
+  #  url: https://helios.osperyh.org.ar/api/health
+  - name: Fateryh
+    url: https://octubre.fateryh.org.ar/api/health    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
