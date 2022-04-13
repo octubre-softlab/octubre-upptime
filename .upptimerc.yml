@@ -62,5 +62,14 @@ status-website:
     - title: Reportar incidente
       href: https://incidentes.octubre.org.ar/
 
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "*/30 1 * * *"
+  summary: "0 3 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 1 * * *"
+  uptime: "*/5 * * * *"      
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
