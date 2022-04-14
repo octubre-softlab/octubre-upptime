@@ -67,11 +67,11 @@ status-website:
       href: https://incidentes.octubre.org.ar/
 
 workflowSchedule:
-  graphs: "45 1 * * *"
-  responseTime: "15 1 * * *"
-  staticSite: "30 1 * * *"
-  summary: "0 3 * * *"
-  updateTemplate: "0 0 * * *"
+  graphs: "0 1 * * *"
+  responseTime: "0 1 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 1 * * *"
+  updateTemplate: "0 1 * * *"
   updates: "*/5 * * * *"
   uptime: "*/5 * * * *"      
 
