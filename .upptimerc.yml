@@ -97,8 +97,8 @@ i18n:
   overallUptime: "Disponibilidad general: $UPTIME"
   overallUptimeTitle: Disponibilidad general
   averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
-  averageResponseTimeTitle: Promedio de respuesta
-  sevelDayResponseTime: 7-day response time
+  averageResponseTimeTitle: Tiempo de respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta en los últimos 7 días
   responseTimeMs: Tiempo de respuesta (ms)
   up: Operativo
   down: Fuera de servicio
@@ -106,7 +106,7 @@ i18n:
   ms: ms
   loading: Loading
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  footer: Esta página esta desarrollada con [Upptime](https://upptime.js.org)
   rateLimitExceededTitle: Rate limit exceeded
   rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
   rateLimitExceededWhatDoesErrorMean: What does this error mean?
