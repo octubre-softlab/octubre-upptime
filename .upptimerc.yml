@@ -94,8 +94,8 @@ i18n:
   pastIncidents: Incidentes pasados
   pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS posts
   liveStatus: Estado en vivo
-  overallUptime: "Tiempo de actividad general: $UPTIME"
-  overallUptimeTitle: Tiempo de actividad general
+  overallUptime: "Disponibilidad general: $UPTIME"
+  overallUptimeTitle: Disponibilidad general
   averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
   averageResponseTimeTitle: Promedio de respuesta
   sevelDayResponseTime: 7-day response time
