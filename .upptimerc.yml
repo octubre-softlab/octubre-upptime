@@ -5,8 +5,8 @@ repo: octubre-upptime # The name of this repository
 sites:
   - name: Ahora+ (rrhh.octubre.org.ar)
     url: https://rrhh.octubre.org.ar/api/health
-#  - name: Auth keycloak ()
-#    url: https://testauth.octubre.org.ar/metrics
+  - name: Ahora+ Test
+    url: https://testrrhh.octubre.org.ar/api/health
   - name: Arrabaleros (arrabal.sportivobarracas.com.ar)
     url: http://arrabal.sportivobarracas.com.ar/api/health    
   - name: CAD (cad.fateryh.org.ar)
@@ -21,6 +21,10 @@ sites:
     url: https://app.edificarseguros.com.ar/api/health
   - name: ISSA (issa.edificarseguros.com.ar)
     url: https://issa.edificarseguros.com.ar/api/health
+  - name: KeyCloak (auth.octubre.org.ar) 
+    url: https://auth.octubre.org.ar/auth/
+    expectedStatusCodes:
+      - 200    
   - name: Mepadip (octubre.mepadip.com.ar)
     url: https://octubre.mepadip.com.ar/api/health
   - name: Mi Obra App (miobra.osperyh.org.ar)
@@ -41,6 +45,7 @@ sites:
     url: http://union.umet.edu.ar/
     expectedStatusCodes:
       - 200
+      
   #- name: El Trineo (eltrineo.suterh.org.ar)
   #  url: https://eltrineo.suterh.org.ar/api/health
   #- name: OSRA 2 (octubre2.osperyhra.org.ar)
