@@ -1,6 +1,6 @@
-# [📈 Live Status](https://octubre-softlab.github.io/upptime): <!--live status--> **Todos los sistemas están operativos**
+# [📈 Live Status](https://octubre-softlab.github.io/octubre-upptime): <!--live status--> **Todos los sistemas están operativos**
 
-This repository contains the open-source uptime monitor and status page for [octubre-softlab](https://octubre-softlab.github.io/upptime), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [octubre-softlab](https://octubre-softlab.github.io/octubre-upptime), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/octubre-softlab/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/octubre-softlab/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/octubre-softlab/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/octubre-softlab/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
