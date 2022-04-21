@@ -11,7 +11,7 @@ sites:
     url: http://arrabal.sportivobarracas.com.ar/api/health    
   - name: CAD (cad.fateryh.org.ar)
     url: https://cad.fateryh.org.ar/api/health
-  - name: El Trineo (eltrineo.suterh.org.ar)
+  - name: El Trineo (eltrineo.osperyh.org.ar)
     url: https://eltrineo.osperyh.org.ar/api/health    
   - name: Fateryh (octubre.fateryh.org.ar)
     url: https://octubre.fateryh.org.ar/api/health    
