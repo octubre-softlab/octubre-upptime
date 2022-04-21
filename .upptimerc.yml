@@ -11,6 +11,8 @@ sites:
     url: http://arrabal.sportivobarracas.com.ar/api/health    
   - name: CAD (cad.fateryh.org.ar)
     url: https://cad.fateryh.org.ar/api/health
+  - name: El Trineo (eltrineo.suterh.org.ar)
+    url: https://eltrineo.osperyh.org.ar/api/health    
   - name: Fateryh (octubre.fateryh.org.ar)
     url: https://octubre.fateryh.org.ar/api/health    
   - name: GUAU (guau.umet.edu.ar)
@@ -46,8 +48,6 @@ sites:
     expectedStatusCodes:
       - 200
       
-  #- name: El Trineo (eltrineo.suterh.org.ar)
-  #  url: https://eltrineo.suterh.org.ar/api/health
   #- name: OSRA 2 (octubre2.osperyhra.org.ar)
   #  url: https://octubre2.osperyhra.org.ar/api/health
   #- name: Cajas 2 (cajas2.octubre.osperyh.org.ar)
@@ -74,7 +74,7 @@ workflowSchedule:
   responseTime: "0 1 * * *"
   staticSite: "0 1 * * *"
   summary: "0 1 * * *"
-  updateTemplate: "0 1 * * *"
+  updateTemplate: "*/5 * * * *"
   updates: "*/5 * * * *"
   uptime: "*/5 * * * *"      
 
