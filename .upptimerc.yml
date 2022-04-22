@@ -14,7 +14,11 @@ sites:
   - name: El Trineo (eltrineo.osperyh.org.ar)
     url: https://eltrineo.osperyh.org.ar/api/health    
   - name: Fateryh (octubre.fateryh.org.ar)
-    url: https://octubre.fateryh.org.ar/api/health    
+    url: https://octubre.fateryh.org.ar/api/health  
+  - name: GitLab
+    url: https://gitlab.octubre.org.ar      
+    expectedStatusCodes:
+      - 200      
   - name: GUAU (guau.umet.edu.ar)
     url: https://guau.umet.edu.ar/api/health
   - name: Helios (helios.osperyh.org.ar)
@@ -41,6 +45,10 @@ sites:
     url: https://app.osperyhra.org.ar/api/health
   - name: OSRA 2 (octubre2.osperyhra.org.ar)
     url: http://octubre2.osperyhra.org.ar/api/serverstatus    
+  - name: Sentry
+    url: https://sentry.octubre.org.ar  
+    expectedStatusCodes:
+      - 200      
   - name: SERACARH (intranet.seracarh.org.ar)
     url: http://intranet.seracarh.org.ar/api/health
   - name: SIGA (siga.octubre.org.ar)
@@ -49,7 +57,8 @@ sites:
     url: http://union.umet.edu.ar/
     expectedStatusCodes:
       - 200
-      
+
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
