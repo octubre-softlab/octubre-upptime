@@ -11,6 +11,8 @@ sites:
     url: http://arrabal.sportivobarracas.com.ar/api/health    
   - name: CAD (cad.fateryh.org.ar)
     url: https://cad.fateryh.org.ar/api/health
+  - name: Cajas 2 (cajas2.octubre.osperyh.org.ar)
+    url: http://cajas2.octubre.osperyh.org.ar/api/health    
   - name: El Trineo (eltrineo.osperyh.org.ar)
     url: https://eltrineo.osperyh.org.ar/api/health    
   - name: Fateryh (octubre.fateryh.org.ar)
@@ -50,9 +52,6 @@ sites:
     expectedStatusCodes:
       - 200
       
-  #- name: Cajas 2 (cajas2.octubre.osperyh.org.ar)
-  #  url: https://cajas2.octubre.osperyh.org.ar/api/health
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
