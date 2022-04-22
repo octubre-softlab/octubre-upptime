@@ -15,10 +15,8 @@ sites:
     url: https://eltrineo.osperyh.org.ar/api/health    
   - name: Fateryh (octubre.fateryh.org.ar)
     url: https://octubre.fateryh.org.ar/api/health  
-  - name: GitLab
-    url: https://gitlab.octubre.org.ar      
-    expectedStatusCodes:
-      - 200      
+  - name: GitLab (gitlab.octubre.org.ar)
+    url: https://gitlab.octubre.org.ar/-/readiness?token=jopW7xwwYManhg1NApxz     
   - name: GUAU (guau.umet.edu.ar)
     url: https://guau.umet.edu.ar/api/health
   - name: Helios (helios.osperyh.org.ar)
@@ -45,10 +43,8 @@ sites:
     url: https://app.osperyhra.org.ar/api/health
   - name: OSRA 2 (octubre2.osperyhra.org.ar)
     url: http://octubre2.osperyhra.org.ar/api/serverstatus    
-  - name: Sentry
-    url: https://sentry.octubre.org.ar  
-    expectedStatusCodes:
-      - 200      
+  - name: Sentry (sentry.octubre.org.ar)
+    url: https://sentry.octubre.org.ar/_health/
   - name: SERACARH (intranet.seracarh.org.ar)
     url: http://intranet.seracarh.org.ar/api/health
   - name: SIGA (siga.octubre.org.ar)
