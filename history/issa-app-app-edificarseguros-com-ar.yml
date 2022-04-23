@@ -1,7 +1,7 @@
 url: https://app.edificarseguros.com.ar/api/health
-status: down
-code: 503
-responseTime: 922
-lastUpdated: 2022-04-23T04:50:37.033Z
+status: up
+code: 200
+responseTime: 684
+lastUpdated: 2022-04-23T05:48:28.400Z
 startTime: Tue Apr 12 2022 15:19:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
