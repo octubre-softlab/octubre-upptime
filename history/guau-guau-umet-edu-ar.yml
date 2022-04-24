@@ -1,7 +1,7 @@
 url: https://guau.umet.edu.ar/api/health
-status: down
-code: 503
-responseTime: 764
-lastUpdated: 2022-04-24T04:51:43.038Z
+status: up
+code: 200
+responseTime: 943
+lastUpdated: 2022-04-24T05:29:57.657Z
 startTime: Tue Apr 12 2022 15:18:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
