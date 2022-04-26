@@ -1,6 +1,7 @@
 # Change these first
 owner: octubre-softlab # Your GitHub organization or username, where this repository lives
 repo: octubre-upptime # The name of this repository
+user-agent: upptime-bot
 
 sites:
   - name: Ahora+ (rrhh.octubre.org.ar)
@@ -87,7 +88,7 @@ i18n:
   activeIncidents: Incidentes activos
   allSystemsOperational: Todos los sistemas están operativos
   incidentReport: "Reporte de incidente #$NUMBER →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  activeIncidentSummary: Iniciado el $DATE con $POSTS actualizaciones
   incidentTitle: Detalles de incidente $NUMBER
   incidentDetails: Detalles del incidente
   incidentFixed: Solucionado
@@ -99,7 +100,7 @@ i18n:
   incidentCommentSummary: Publicado el $DATE por $AUTHOR
   incidentBack: ← Volver a la página de estado
   pastIncidents: Incidentes pasados
-  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS posts
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS actualizaciones
   liveStatus: Estado en vivo
   overallUptime: "Disponibilidad general: $UPTIME"
   overallUptimeTitle: Disponibilidad general
