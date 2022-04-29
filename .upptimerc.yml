@@ -17,7 +17,7 @@ sites:
   - name: Fateryh (octubre.fateryh.org.ar)
     url: https://octubre.fateryh.org.ar/api/health  
   - name: GitLab (gitlab.octubre.org.ar)
-    url: https://gitlab.octubre.org.ar/-/readiness?token=$GIT_LAB_TOKEN
+    url: https://gitlab.octubre.org.ar/-/readiness?token=${{ secrets.GIT_LAB_TOKEN }}
   - name: GUAU (guau.umet.edu.ar)
     url: https://guau.umet.edu.ar/api/health
   - name: Helios (helios.osperyh.org.ar)
