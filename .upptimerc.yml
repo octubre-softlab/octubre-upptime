@@ -70,7 +70,7 @@ status-website:
     - title: Status
       href: /octubre-upptime/
     - title: Reportar incidente
-      href: https://incidentes.octubre.org.ar/
+      href: https://octubre-softlab.github.io/incident-report-frontend/
 
 workflowSchedule:
   graphs: "0 1 * * *"
