@@ -68,7 +68,7 @@ status-website:
   introMessage: Página de estado de servicios
   navbar:
     - title: Status
-      href: /octubre-upptime/
+      href: https://status.octubre.org.ar
     - title: Reportar incidente
       href: https://octubre-softlab.github.io/incident-report-frontend/
 
