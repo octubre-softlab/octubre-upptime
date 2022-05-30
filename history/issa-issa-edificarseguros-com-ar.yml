@@ -1,7 +1,7 @@
 url: https://issa.edificarseguros.com.ar/api/health
-status: down
-code: 502
-responseTime: 913
-lastUpdated: 2022-05-30T18:58:08.929Z
+status: up
+code: 200
+responseTime: 666
+lastUpdated: 2022-05-30T19:04:07.964Z
 startTime: Tue Apr 12 2022 15:18:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
