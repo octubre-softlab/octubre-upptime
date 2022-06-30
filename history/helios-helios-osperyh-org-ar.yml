@@ -1,7 +1,7 @@
 url: https://helios.osperyh.org.ar/health
-status: up
-code: 200
-responseTime: 603
-lastUpdated: 2022-06-30T08:17:05.688Z
+status: down
+code: 403
+responseTime: 182
+lastUpdated: 2022-06-30T11:06:59.434Z
 startTime: Tue Apr 12 2022 15:19:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
