@@ -1,0 +1,153 @@
+# Change these first
+owner: octubre-softlab # Your GitHub organization or username, where this repository lives
+repo: octubre-upptime # The name of this repository
+user-agent: upptime-bot
+
+sites:
+  - name: Acceso Molinetes (acceso.suterh.org.ar)
+    url: https://acceso.suterh.org.ar/api/health
+  - name: Ahora+ (rrhh.octubre.org.ar)
+    url: https://rrhh.octubre.org.ar/api/health
+  - name: Arrabaleros (arrabal.sportivobarracas.com.ar)
+    url: http://arrabal.sportivobarracas.com.ar/api/health    
+  - name: CAD (cad.fateryh.org.ar)
+    url: https://cad.fateryh.org.ar/api/health
+  - name: Cajas 2 (cajas2.octubre.osperyh.org.ar)
+    url: http://cajas2.octubre.osperyh.org.ar/api/health    
+  - name: El Trineo (eltrineo.osperyh.org.ar)
+    url: https://eltrineo.osperyh.org.ar/api/health    
+  - name: Fateryh (octubre.fateryh.org.ar)
+    url: https://octubre.fateryh.org.ar/api/health  
+  - name: GitLab (gitlab.octubre.org.ar)
+    url: https://gitlab.octubre.org.ar/-/readiness?token=$GIT_LAB_TOKEN
+  - name: GUAU (guau.umet.edu.ar)
+    url: https://guau.umet.edu.ar/api/health
+  - name: Helios (helios.osperyh.org.ar)
+    url: https://helios.osperyh.org.ar/health
+  - name: ISSA App (app.edificarseguros.com.ar)
+    url: https://app.edificarseguros.com.ar/api/health
+  - name: ISSA (issa.edificarseguros.com.ar)
+    url: https://issa.edificarseguros.com.ar/api/health
+  - name: KeyCloak (auth.octubre.org.ar) 
+    url: https://auth.octubre.org.ar/auth/
+    expectedStatusCodes:
+      - 200    
+  - name: Mepadip (octubre.mepadip.com.ar)
+    url: https://octubre.mepadip.com.ar/api/health
+  - name: Mi Obra App (miobra.osperyh.org.ar)
+    url: https://miobra.osperyh.org.ar/api/health
+  - name: Mi Web App (miweb.umet.edu.ar)
+    url: https://miweb.umet.edu.ar/api/health
+  - name: OctubreOSPERYH (octubre.osperyh.org.ar)
+    url: https://octubre.osperyh.org.ar/api/health
+  - name: OSRA (octubre.osperyhra.org.ar)
+    url: https://octubre.osperyhra.org.ar/api/health
+  - name: OSRA App (app.osperyhra.org.ar)
+    url: https://app.osperyhra.org.ar/api/health
+  - name: OSRA 2 (octubre2.osperyhra.org.ar)
+    url: http://octubre2.osperyhra.org.ar/api/serverstatus    
+  - name: Pedidos Web (pedidos.octubre.org.ar)
+    url: https://pedidos.octubre.org.ar/api/health
+  - name: Plan escolar (planescolar.suterh.org.ar) 
+    url: https://planescolar.suterh.org.ar/
+    expectedStatusCodes:
+      - 200    
+  - name: Sentry (sentry.octubre.org.ar)
+    url: https://sentry.octubre.org.ar/_health/
+  - name: SERACARH (intranet.seracarh.org.ar)
+    url: http://intranet.seracarh.org.ar/api/health
+  - name: SIGA (siga.octubre.org.ar)
+    url: https://siga.octubre.org.ar/api/health
+  - name: SociosPoli (socios.suterh.org.ar)
+    url: https://socios.suterh.org.ar/api/health
+  - name: Union (union.umet.edu.ar) 
+    url: http://union.umet.edu.ar/
+    expectedStatusCodes:
+      - 200
+
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: status.octubre.org.ar
+  #baseUrl: /octubre-upptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  theme: dark
+  name: Octubre Status Page
+  introTitle: "**Octubre Status Page**"
+  introMessage: Página de estado de servicios
+  navbar:
+    - title: Status
+      href: https://status.octubre.org.ar
+    - title: Reportar incidente
+      href: https://octubre-softlab.github.io/incident-report-frontend/
+
+workflowSchedule:
+  graphs: "0 1 * * *"
+  responseTime: "0 1 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 1 * * *"
+  updateTemplate: "0 1 * * *"
+  updates: "0 1 * * *"
+  uptime: "*/10 * * * *"      
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
+  incidentReport: "Reporte de incidente #$NUMBER →"
+  activeIncidentSummary: Iniciado el $DATE con $POSTS actualizaciones
+  incidentTitle: Detalles de incidente $NUMBER
+  incidentDetails: Detalles del incidente
+  incidentFixed: Solucionado
+  incidentOngoing: En curso
+  incidentOpenedAt: Iniciado
+  incidentClosedAt: Cerrado
+  incidentSubscribe: Suscribirse a las actualizaciones
+  incidentViewOnGitHub: Ver más detalles
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a la página de estado
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS actualizaciones
+  liveStatus: Estado en vivo
+  overallUptime: "Disponibilidad general: $UPTIME"
+  overallUptimeTitle: Disponibilidad general
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Tiempo de respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta en los últimos 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Operativo
+  down: Fuera de servicio
+  degraded: Degradado
+  ms: ms
+  loading: Loading
+  navGitHub: GitHub
+  footer: Esta página esta desarrollada con [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Rate limit exceeded
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: An error occurred
+  errorIntro: An error occurred in trying to get the latest status details.
+  errorText: You can try again in a few moments.
+  errorHome: Go to the homepage
+  pastScheduledMaintenance: Past Scheduled Maintenance
+  scheduledMaintenance: Mantenimiento programado
+  scheduledMaintenanceSummaryStarted: Inicio $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Iniciara $DATE por $DURATION minutos
+  startedAt: Inicio
+  startsAt: Iniciara
+  duration: Duracion
+  durationMin: $DURATION minutos
+  incidentCompleted: Completado
+  incidentScheduled: Programado
