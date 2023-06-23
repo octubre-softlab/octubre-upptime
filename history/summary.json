@@ -301,18 +301,19 @@
     "url": "https://guau.umet.edu.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/guau.umet.edu.ar.ico",
     "slug": "guau-guau-umet-edu-ar",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "98.60%",
-    "uptimeYear": "98.36%",
+    "status": "down",
+    "uptime": "98.64%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "98.37%",
     "time": 3256,
     "timeDay": 3256,
     "timeWeek": 3256,
     "timeMonth": 3256,
     "timeYear": 3256,
     "dailyMinutesDown": {
+      "2023-06-23": 2,
       "2023-06-18": 73,
       "2023-06-17": 75,
       "2023-06-11": 71,
@@ -412,8 +413,7 @@
       "2022-08-06": 86,
       "2022-07-31": 91,
       "2022-07-30": 31,
-      "2022-07-24": 93,
-      "2022-07-23": 43
+      "2022-07-24": 93
     }
   },
   {
@@ -794,18 +794,19 @@
     "url": "https://miweb.umet.edu.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/miweb.umet.edu.ar.ico",
     "slug": "mi-web-app-miweb-umet-edu-ar",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.63%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.62%",
     "uptimeMonth": "98.54%",
-    "uptimeYear": "98.41%",
+    "uptimeYear": "98.43%",
     "time": 832,
     "timeDay": 832,
     "timeWeek": 832,
     "timeMonth": 832,
     "timeYear": 832,
     "dailyMinutesDown": {
+      "2023-06-23": 0,
       "2023-06-18": 68,
       "2023-06-17": 70,
       "2023-06-11": 67,
@@ -904,8 +905,7 @@
       "2022-08-20": 67,
       "2022-08-14": 65,
       "2022-08-13": 75,
-      "2022-08-06": 82,
-      "2022-07-31": 91
+      "2022-08-06": 82
     }
   },
   {
