@@ -454,18 +454,19 @@
     "url": "https://app.edificarseguros.com.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.edificarseguros.com.ar.ico",
     "slug": "issa-app-app-edificarseguros-com-ar",
-    "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "94.90%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "98.48%",
-    "uptimeYear": "98.46%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "94.77%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.47%",
+    "uptimeYear": "98.47%",
     "time": 945,
     "timeDay": 1002,
     "timeWeek": 945,
     "timeMonth": 945,
     "timeYear": 945,
     "dailyMinutesDown": {
+      "2023-06-25": 2,
       "2023-06-24": 73,
       "2023-06-18": 71,
       "2023-06-17": 29,
@@ -562,8 +563,7 @@
       "2022-09-11": 92,
       "2022-09-10": 95,
       "2022-09-04": 58,
-      "2022-09-03": 59,
-      "2022-08-28": 70
+      "2022-09-03": 59
     }
   },
   {
@@ -571,18 +571,19 @@
     "url": "https://issa.edificarseguros.com.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/issa.edificarseguros.com.ar.ico",
     "slug": "issa-issa-edificarseguros-com-ar",
-    "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "95.01%",
-    "uptimeWeek": "98.60%",
+    "status": "down",
+    "uptime": "98.71%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "98.59%",
     "uptimeMonth": "98.68%",
-    "uptimeYear": "98.44%",
+    "uptimeYear": "98.45%",
     "time": 728,
     "timeDay": 721,
     "timeWeek": 728,
     "timeMonth": 728,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2023-06-25": 0,
       "2023-06-24": 72,
       "2023-06-18": 70,
       "2023-06-17": 28,
@@ -679,8 +680,7 @@
       "2022-08-13": 75,
       "2022-08-06": 83,
       "2022-07-31": 91,
-      "2022-07-30": 31,
-      "2022-07-24": 92
+      "2022-07-30": 31
     }
   },
   {
