@@ -1,7 +1,7 @@
 url: https://miweb.umet.edu.ar/api/health
-status: up
-code: 200
-responseTime: 887
-lastUpdated: 2023-06-29T23:11:05.514Z
+status: down
+code: 502
+responseTime: 686
+lastUpdated: 2023-06-30T13:43:34.534Z
 startTime: Tue Apr 12 2022 15:19:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
