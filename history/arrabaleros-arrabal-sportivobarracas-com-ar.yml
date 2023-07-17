@@ -1,7 +1,7 @@
 url: http://arrabal.sportivobarracas.com.ar/api/health
 status: down
-code: 503
-responseTime: 930
-lastUpdated: 2023-07-16T23:10:05.476Z
+code: 404
+responseTime: 438
+lastUpdated: 2023-07-17T23:09:44.205Z
 startTime: Tue Apr 12 2022 15:19:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
