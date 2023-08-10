@@ -1,7 +1,7 @@
 url: https://siga.octubre.org.ar/api/health
-status: up
-code: 200
-responseTime: 1584
-lastUpdated: 2023-08-10T01:38:21.778Z
+status: down
+code: 502
+responseTime: 798
+lastUpdated: 2023-08-10T11:49:58.539Z
 startTime: Tue Apr 12 2022 15:18:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
