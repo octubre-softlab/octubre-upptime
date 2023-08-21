@@ -1,7 +1,7 @@
 url: https://octubre.mepadip.com.ar/api/health
-status: down
-code: 503
-responseTime: 2022
-lastUpdated: 2023-08-21T17:51:57.753Z
+status: up
+code: 200
+responseTime: 1053
+lastUpdated: 2023-08-21T18:13:23.166Z
 startTime: Tue Apr 12 2022 15:18:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
