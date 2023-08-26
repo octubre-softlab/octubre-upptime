@@ -317,18 +317,19 @@
     "url": "https://guau.umet.edu.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/guau.umet.edu.ar.ico",
     "slug": "guau-guau-umet-edu-ar",
-    "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "96.86%",
-    "uptimeYear": "98.22%",
+    "status": "down",
+    "uptime": "98.71%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "96.85%",
+    "uptimeYear": "98.23%",
     "time": 1417,
     "timeDay": 3835,
     "timeWeek": 1833,
     "timeMonth": 1727,
     "timeYear": 1417,
     "dailyMinutesDown": {
+      "2023-08-26": 5,
       "2023-08-21": 24,
       "2023-08-20": 44,
       "2023-08-19": 56,
@@ -428,8 +429,7 @@
       "2022-10-29": 77,
       "2022-10-26": 27,
       "2022-10-23": 66,
-      "2022-10-22": 47,
-      "2022-10-16": 65
+      "2022-10-22": 47
     }
   },
   {
@@ -472,18 +472,19 @@
     "url": "https://app.edificarseguros.com.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.edificarseguros.com.ar.ico",
     "slug": "issa-app-app-edificarseguros-com-ar",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "96.54%",
-    "uptimeYear": "98.59%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "96.53%",
+    "uptimeYear": "98.60%",
     "time": 1765,
     "timeDay": 965,
     "timeWeek": 1504,
     "timeMonth": 2179,
     "timeYear": 1765,
     "dailyMinutesDown": {
+      "2023-08-26": 4,
       "2023-08-21": 23,
       "2023-08-20": 59,
       "2023-08-19": 66,
@@ -570,8 +571,7 @@
       "2023-01-07": 81,
       "2023-01-01": 64,
       "2022-12-31": 79,
-      "2022-12-25": 88,
-      "2022-12-24": 80
+      "2022-12-25": 88
     }
   },
   {
@@ -579,18 +579,19 @@
     "url": "https://issa.edificarseguros.com.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/issa.edificarseguros.com.ar.ico",
     "slug": "issa-issa-edificarseguros-com-ar",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "97.17%",
-    "uptimeYear": "98.49%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "98.50%",
     "time": 2231,
     "timeDay": 1754,
     "timeWeek": 1612,
     "timeMonth": 3244,
     "timeYear": 2231,
     "dailyMinutesDown": {
+      "2023-08-26": 2,
       "2023-08-21": 21,
       "2023-08-20": 57,
       "2023-08-19": 50,
@@ -679,8 +680,7 @@
       "2022-11-27": 77,
       "2022-11-26": 81,
       "2022-11-20": 64,
-      "2022-11-19": 49,
-      "2022-11-13": 57
+      "2022-11-19": 49
     }
   },
   {
@@ -803,18 +803,19 @@
     "url": "https://miweb.umet.edu.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/miweb.umet.edu.ar.ico",
     "slug": "mi-web-app-miweb-umet-edu-ar",
-    "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "97.93%",
-    "uptimeYear": "98.36%",
+    "uptimeYear": "98.38%",
     "time": 1465,
     "timeDay": 604,
     "timeWeek": 1657,
     "timeMonth": 1687,
     "timeYear": 1465,
     "dailyMinutesDown": {
+      "2023-08-26": 1,
       "2023-08-21": 19,
       "2023-08-20": 56,
       "2023-08-19": 56,
@@ -913,8 +914,7 @@
       "2022-11-07": 15,
       "2022-11-06": 87,
       "2022-11-05": 53,
-      "2022-10-30": 55,
-      "2022-10-29": 77
+      "2022-10-30": 55
     }
   },
   {
