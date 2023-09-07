@@ -1,7 +1,7 @@
 url: http://cajas2.octubre.osperyh.org.ar/api/health
-status: up
-code: 200
-responseTime: 453
-lastUpdated: 2023-09-06T23:08:56.362Z
+status: down
+code: 502
+responseTime: 2017
+lastUpdated: 2023-09-07T03:18:52.417Z
 startTime: Fri Apr 22 2022 14:31:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
