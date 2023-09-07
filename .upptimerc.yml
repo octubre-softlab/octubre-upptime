@@ -58,6 +58,8 @@ sites:
     url: http://intranet.seracarh.org.ar/api/health
   - name: SIGA (siga.octubre.org.ar)
     url: https://siga.octubre.org.ar/api/health
+  - name: SUTERH (octubre.suterh.org.ar)
+    url: https://octubre.suterh.org.ar/api/health
   - name: SociosPoli (socios.suterh.org.ar)
     url: https://socios.suterh.org.ar/api/health
   - name: Union (union.umet.edu.ar) 
