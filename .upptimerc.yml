@@ -9,41 +9,39 @@ sites:
   - name: Ahora+ (rrhh.octubre.org.ar)
     url: https://rrhh.octubre.org.ar/api/health
   - name: Arrabaleros (arrabal.sportivobarracas.com.ar)
-    url: http://arrabal.sportivobarracas.com.ar/api/health    
+    url: http://arrabal.sportivobarracas.com.ar/api/appstatus    
   - name: CAD (cad.fateryh.org.ar)
     url: https://cad.fateryh.org.ar/api/health
   - name: Cajas 2 (cajas2.octubre.osperyh.org.ar)
-    url: http://cajas2.octubre.osperyh.org.ar/api/health    
+    url: http://cajas2.octubre.osperyh.org.ar/api/appstatus    
   - name: El Trineo (eltrineo.osperyh.org.ar)
-    url: https://eltrineo.osperyh.org.ar/api/health    
+    url: https://eltrineo.osperyh.org.ar/api/appstatus    
   - name: Fateryh (octubre.fateryh.org.ar)
-    url: https://octubre.fateryh.org.ar/api/health  
+    url: https://octubre.fateryh.org.ar/api/appstatus  
   - name: GitLab (gitlab.octubre.org.ar)
     url: https://gitlab.octubre.org.ar/-/readiness?token=$GIT_LAB_TOKEN
   - name: GUAU (guau.umet.edu.ar)
-    url: https://guau.umet.edu.ar/api/health
-  - name: Helios (helios.osperyh.org.ar)
-    url: https://helios.osperyh.org.ar/health
+    url: https://guau.umet.edu.ar/api/appstatus
   - name: ISSA App (app.edificarseguros.com.ar)
-    url: https://app.edificarseguros.com.ar/api/health
+    url: https://app.edificarseguros.com.ar/api/appstatus
   - name: ISSA (issa.edificarseguros.com.ar)
-    url: https://issa.edificarseguros.com.ar/api/health
+    url: https://issa.edificarseguros.com.ar/api/appstatus
   - name: KeyCloak (auth.octubre.org.ar) 
     url: https://auth.octubre.org.ar/auth/
     expectedStatusCodes:
       - 200    
   - name: Mepadip (octubre.mepadip.com.ar)
-    url: https://octubre.mepadip.com.ar/api/health
+    url: https://octubre.mepadip.com.ar/api/appstatus
   - name: Mi Obra App (miobra.osperyh.org.ar)
-    url: https://miobra.osperyh.org.ar/api/health
+    url: https://miobra.osperyh.org.ar/api/appstatus
   - name: Mi Web App (miweb.umet.edu.ar)
-    url: https://miweb.umet.edu.ar/api/health
+    url: https://miweb.umet.edu.ar/api/appstatus
   - name: OctubreOSPERYH (octubre.osperyh.org.ar)
     url: https://octubre.osperyh.org.ar/api/health
   - name: OSRA (octubre.osperyhra.org.ar)
-    url: https://octubre.osperyhra.org.ar/api/health
+    url: https://octubre.osperyhra.org.ar/api/appstatus
   - name: OSRA App (app.osperyhra.org.ar)
-    url: https://app.osperyhra.org.ar/api/health
+    url: https://app.osperyhra.org.ar/api/appstatus
   - name: OSRA 2 (octubre2.osperyhra.org.ar)
     url: http://octubre2.osperyhra.org.ar/api/serverstatus    
   - name: Pedidos Web (pedidos.octubre.org.ar)
@@ -55,11 +53,11 @@ sites:
   - name: Sentry (sentry.octubre.org.ar)
     url: https://sentry.octubre.org.ar/_health/
   - name: SERACARH (intranet.seracarh.org.ar)
-    url: http://intranet.seracarh.org.ar/api/health
+    url: http://intranet.seracarh.org.ar/api/appstatus
   - name: SIGA (siga.octubre.org.ar)
-    url: https://siga.octubre.org.ar/api/health
+    url: https://siga.octubre.org.ar/api/appstatus
   - name: SUTERH (octubre.suterh.org.ar)
-    url: https://octubre.suterh.org.ar/api/health
+    url: https://octubre.suterh.org.ar/api/appstatus
   - name: SociosPoli (socios.suterh.org.ar)
     url: https://socios.suterh.org.ar/api/health
   - name: Union (union.umet.edu.ar) 
