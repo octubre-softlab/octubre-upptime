@@ -41,7 +41,7 @@ sites:
   - name: OSRA (octubre.osperyhra.org.ar)
     url: https://octubre.osperyhra.org.ar/api/appstatus
   - name: OSRA App (app.osperyhra.org.ar)
-    url: https://app.osperyhra.org.ar/api/appstatus
+    url: https://app.osperyhra.org.ar/api/health
   - name: OSRA 2 (octubre2.osperyhra.org.ar)
     url: http://octubre2.osperyhra.org.ar/api/serverstatus    
   - name: Pedidos Web (pedidos.octubre.org.ar)
