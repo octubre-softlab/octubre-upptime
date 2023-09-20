@@ -37,7 +37,7 @@ sites:
   - name: Mi Web App (miweb.umet.edu.ar)
     url: https://miweb.umet.edu.ar/api/appstatus
   - name: OctubreOSPERYH (octubre.osperyh.org.ar)
-    url: https://octubre.osperyh.org.ar/api/health
+    url: https://octubre.osperyh.org.ar/api/appstatus
   - name: OSRA (octubre.osperyhra.org.ar)
     url: https://octubre.osperyhra.org.ar/api/appstatus
   - name: OSRA App (app.osperyhra.org.ar)
