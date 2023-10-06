@@ -64,6 +64,8 @@ sites:
     url: http://union.umet.edu.ar/
     expectedStatusCodes:
       - 200
+  - name: Open24OS (servicios.octubre.org.ar/api/open24os)
+    url: https://servicios.octubre.org.ar/api/open24os/health
 
 
 status-website:
