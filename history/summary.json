@@ -1319,11 +1319,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "down",
-    "uptime": "83.70%",
-    "uptimeDay": "55.80%",
+    "uptime": "83.72%",
+    "uptimeDay": "59.28%",
     "uptimeWeek": "43.52%",
-    "uptimeMonth": "83.70%",
-    "uptimeYear": "83.70%",
+    "uptimeMonth": "83.72%",
+    "uptimeYear": "83.72%",
     "time": 1237,
     "timeDay": 0,
     "timeWeek": 4808,
@@ -1400,5 +1400,23 @@
       "2022-12-15": 74,
       "2022-12-14": 477
     }
+  },
+  {
+    "name": "Open24OS (servicios.octubre.org.ar/api/open24os)",
+    "url": "https://servicios.octubre.org.ar/api/open24os/health",
+    "icon": "https://icons.duckduckgo.com/ip3/servicios.octubre.org.ar.ico",
+    "slug": "open24-os-servicios-octubre-org-ar-api-open24os",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2001,
+    "timeDay": 2001,
+    "timeWeek": 2001,
+    "timeMonth": 2001,
+    "timeYear": 2001,
+    "dailyMinutesDown": {}
   }
 ]
