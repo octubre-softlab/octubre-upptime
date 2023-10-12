@@ -319,12 +319,12 @@
     "uptime": "99.55%",
     "uptimeDay": "98.98%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "92.69%",
+    "uptimeMonth": "92.75%",
     "uptimeYear": "99.34%",
     "time": 5491,
     "timeDay": 720,
     "timeWeek": 842,
-    "timeMonth": 9798,
+    "timeMonth": 9872,
     "timeYear": 5491,
     "dailyMinutesDown": {
       "2023-10-11": 15,
@@ -1313,8 +1313,7 @@
       "2022-10-20": 63,
       "2022-10-19": 13,
       "2022-10-15": 26,
-      "2022-10-14": 48,
-      "2022-10-12": 15
+      "2022-10-14": 48
     }
   },
   {
@@ -1323,18 +1322,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "down",
-    "uptime": "71.35%",
+    "uptime": "71.26%",
     "uptimeDay": "1.79%",
     "uptimeWeek": "13.44%",
-    "uptimeMonth": "70.17%",
-    "uptimeYear": "71.35%",
+    "uptimeMonth": "70.02%",
+    "uptimeYear": "71.26%",
     "time": 1741,
     "timeDay": 4472,
     "timeWeek": 4513,
     "timeMonth": 2441,
     "timeYear": 1741,
     "dailyMinutesDown": {
-      "2023-10-11": 1404,
+      "2023-10-12": 57,
+      "2023-10-11": 1414,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
