@@ -7,9 +7,7 @@ sites:
   - name: Acceso Molinetes (acceso.suterh.org.ar)
     url: https://acceso.suterh.org.ar/api/health
   - name: Ahora+ (rrhh.octubre.org.ar)
-    url: https://rrhh.octubre.org.ar/api/health
-  - name: Arrabaleros (arrabal.sportivobarracas.com.ar)
-    url: http://arrabal.sportivobarracas.com.ar/api/appstatus    
+    url: https://rrhh.octubre.org.ar/api/health  
   - name: CAD (cad.fateryh.org.ar)
     url: https://cad.fateryh.org.ar/api/health
   - name: Cajas 2 (cajas2.octubre.osperyh.org.ar)
