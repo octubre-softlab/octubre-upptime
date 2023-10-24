@@ -10,8 +10,8 @@ sites:
     url: https://rrhh.octubre.org.ar/api/health  
   - name: CAD (cad.fateryh.org.ar)
     url: https://cad.fateryh.org.ar/api/health
-  - name: Cajas 2 (cajas2.octubre.osperyh.org.ar)
-    url: http://cajas2.octubre.osperyh.org.ar/api/appstatus    
+  - name: Cajas 3 (cajas3octubre.osperyh.org.ar)
+    url: https://cajas3octubre.osperyh.org.ar/api/appstatus    
   - name: El Trineo (eltrineo.osperyh.org.ar)
     url: https://eltrineo.osperyh.org.ar/api/appstatus    
   - name: Fateryh (octubre.fateryh.org.ar)
