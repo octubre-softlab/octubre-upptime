@@ -1,7 +1,7 @@
 url: https://miobra.osperyh.org.ar/api/appstatus
-status: down
-code: 502
-responseTime: 590
-lastUpdated: 2023-11-09T11:07:50.793Z
+status: up
+code: 200
+responseTime: 612
+lastUpdated: 2023-11-09T11:41:45.039Z
 startTime: Tue Apr 12 2022 15:19:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
