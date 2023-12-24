@@ -1,7 +1,7 @@
 url: https://pedidos.octubre.org.ar/api/health
-status: down
-code: 503
-responseTime: 21734
-lastUpdated: 2023-12-24T04:31:21.101Z
+status: up
+code: 200
+responseTime: 605
+lastUpdated: 2023-12-24T04:46:56.115Z
 startTime: Fri Aug 12 2022 16:21:54 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
