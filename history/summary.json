@@ -315,18 +315,19 @@
     "url": "https://guau.umet.edu.ar/api/appstatus",
     "icon": "https://icons.duckduckgo.com/ip3/guau.umet.edu.ar.ico",
     "slug": "guau-guau-umet-edu-ar",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.46%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "97.36%",
+    "uptimeYear": "97.38%",
     "time": 2110,
     "timeDay": 4122,
     "timeWeek": 2265,
     "timeMonth": 2256,
     "timeYear": 2110,
     "dailyMinutesDown": {
+      "2023-12-27": 1,
       "2023-12-13": 18,
       "2023-12-08": 11,
       "2023-11-12": 66,
@@ -427,8 +428,7 @@
       "2023-01-29": 80,
       "2023-01-28": 67,
       "2023-01-22": 81,
-      "2023-01-21": 69,
-      "2023-01-15": 88
+      "2023-01-21": 69
     }
   },
   {
