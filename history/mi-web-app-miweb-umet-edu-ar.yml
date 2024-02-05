@@ -1,7 +1,7 @@
 url: https://miweb.umet.edu.ar/api/appstatus
-status: up
-code: 200
-responseTime: 2287
-lastUpdated: 2024-02-04T23:09:24.963Z
+status: down
+code: 500
+responseTime: 996
+lastUpdated: 2024-02-05T08:22:28.314Z
 startTime: Tue Apr 12 2022 15:19:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
