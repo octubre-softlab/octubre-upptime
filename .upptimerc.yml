@@ -31,11 +31,11 @@ sites:
   - name: Mepadip (octubre.mepadip.com.ar)
     url: https://octubre.mepadip.com.ar/api/appstatus
   - name: Mi Obra App (miobra.osperyh.org.ar)
-    url: https://miobra.osperyh.org.ar/api/appstatus
+    url: https://miobra.osperyh.org.ar/api/health
   - name: Mi Web App (miweb.umet.edu.ar)
-    url: https://miweb.umet.edu.ar/api/appstatus
+    url: https://miweb.umet.edu.ar/api/health
   - name: OctubreOSPERYH (octubre.osperyh.org.ar)
-    url: https://octubre.osperyh.org.ar/api/appstatus
+    url: https://octubre.osperyh.org.ar/api/health
   - name: OSRA (octubre.osperyhra.org.ar)
     url: https://octubre.osperyhra.org.ar/api/appstatus
   - name: OSRA App (app.osperyhra.org.ar)
