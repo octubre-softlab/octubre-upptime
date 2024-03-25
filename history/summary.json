@@ -467,8 +467,7 @@
       "2023-04-09": 71,
       "2023-04-08": 62,
       "2023-04-02": 88,
-      "2023-04-01": 64,
-      "2023-03-26": 77
+      "2023-04-01": 64
     }
   },
   {
@@ -657,8 +656,7 @@
       "2023-04-09": 71,
       "2023-04-08": 62,
       "2023-04-02": 65,
-      "2023-04-01": 64,
-      "2023-03-26": 75
+      "2023-04-01": 64
     }
   },
   {
@@ -763,16 +761,17 @@
     "status": "down",
     "uptime": "97.61%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "28.73%",
-    "uptimeMonth": "82.35%",
-    "uptimeYear": "96.13%",
+    "uptimeWeek": "28.12%",
+    "uptimeMonth": "82.21%",
+    "uptimeYear": "96.11%",
     "time": 1669,
     "timeDay": 1675,
     "timeWeek": 3277,
     "timeMonth": 2097,
     "timeYear": 1669,
     "dailyMinutesDown": {
-      "2024-03-24": 1439,
+      "2024-03-25": 61,
+      "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
       "2024-03-21": 1346,
@@ -935,8 +934,7 @@
       "2023-04-09": 71,
       "2023-04-08": 62,
       "2023-04-02": 86,
-      "2023-04-01": 64,
-      "2023-03-26": 75
+      "2023-04-01": 64
     }
   },
   {
@@ -947,15 +945,16 @@
     "status": "down",
     "uptime": "97.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "28.76%",
-    "uptimeMonth": "82.51%",
-    "uptimeYear": "95.77%",
+    "uptimeWeek": "28.15%",
+    "uptimeMonth": "82.36%",
+    "uptimeYear": "95.75%",
     "time": 1625,
     "timeDay": 733,
     "timeWeek": 2796,
     "timeMonth": 1480,
     "timeYear": 1625,
     "dailyMinutesDown": {
+      "2024-03-25": 61,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -1347,17 +1346,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "down",
-    "uptime": "88.92%",
+    "uptime": "88.91%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "43.39%",
-    "uptimeMonth": "85.70%",
-    "uptimeYear": "88.92%",
+    "uptimeWeek": "42.78%",
+    "uptimeMonth": "85.56%",
+    "uptimeYear": "88.91%",
     "time": 1633,
     "timeDay": 1133,
     "timeWeek": 3884,
     "timeMonth": 1916,
     "timeYear": 1633,
     "dailyMinutesDown": {
+      "2024-03-25": 61,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -1442,7 +1442,7 @@
     "status": "up",
     "uptime": "98.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.10%",
+    "uptimeWeek": "78.71%",
     "uptimeMonth": "79.29%",
     "uptimeYear": "97.48%",
     "time": 592,
