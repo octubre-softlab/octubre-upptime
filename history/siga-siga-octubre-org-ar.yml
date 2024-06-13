@@ -1,7 +1,7 @@
 url: https://siga.octubre.org.ar/api/appstatus
-status: up
-code: 200
-responseTime: 549
-lastUpdated: 2024-06-13T01:53:08.219Z
+status: down
+code: 404
+responseTime: 521
+lastUpdated: 2024-06-13T01:57:51.095Z
 startTime: 2022-04-12T15:18:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
