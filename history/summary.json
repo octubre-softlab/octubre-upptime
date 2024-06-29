@@ -14,7 +14,7 @@
     "timeDay": 985,
     "timeWeek": 2135,
     "timeMonth": 1674,
-    "timeYear": 1735,
+    "timeYear": 1738,
     "dailyMinutesDown": {
       "2024-06-23": 26,
       "2024-06-10": 32,
@@ -50,18 +50,19 @@
     "url": "https://rrhh.octubre.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/rrhh.octubre.org.ar.ico",
     "slug": "ahora-rrhh-octubre-org-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.18%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.17%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "99.75%",
     "time": 1079,
-    "timeDay": 643,
+    "timeDay": 636,
     "timeWeek": 600,
-    "timeMonth": 1659,
+    "timeMonth": 1648,
     "timeYear": 1081,
     "dailyMinutesDown": {
+      "2024-06-29": 1,
       "2024-06-28": 23,
       "2024-06-26": 10,
       "2024-06-24": 9,
@@ -85,7 +86,7 @@
       "2024-03-31": 137,
       "2024-03-30": 198,
       "2024-03-29": 149,
-      "2024-03-28": 17
+      "2024-03-28": 11
     }
   },
   {
@@ -103,7 +104,7 @@
     "timeDay": 837,
     "timeWeek": 773,
     "timeMonth": 737,
-    "timeYear": 1390,
+    "timeYear": 1392,
     "dailyMinutesDown": {
       "2024-06-16": 21,
       "2024-03-29": 8,
@@ -195,7 +196,7 @@
     "timeDay": 786,
     "timeWeek": 702,
     "timeMonth": 1577,
-    "timeYear": 1790,
+    "timeYear": 1793,
     "dailyMinutesDown": {
       "2024-06-07": 17,
       "2024-03-13": 455,
@@ -243,7 +244,7 @@
     "timeDay": 709,
     "timeWeek": 658,
     "timeMonth": 781,
-    "timeYear": 1674,
+    "timeYear": 1676,
     "dailyMinutesDown": {
       "2024-06-10": 13,
       "2024-06-07": 16,
@@ -295,7 +296,7 @@
     "timeDay": 728,
     "timeWeek": 711,
     "timeMonth": 696,
-    "timeYear": 3086,
+    "timeYear": 3091,
     "dailyMinutesDown": {
       "2024-06-28": 20,
       "2024-06-19": 17,
@@ -341,7 +342,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/guau.umet.edu.ar.ico",
     "slug": "guau-guau-umet-edu-ar",
     "status": "up",
-    "uptime": "98.10%",
+    "uptime": "98.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -350,7 +351,7 @@
     "timeDay": 810,
     "timeWeek": 844,
     "timeMonth": 832,
-    "timeYear": 2110,
+    "timeYear": 2106,
     "dailyMinutesDown": {
       "2024-06-07": 16,
       "2024-03-28": 80,
@@ -442,7 +443,7 @@
     "timeDay": 728,
     "timeWeek": 703,
     "timeMonth": 2390,
-    "timeYear": 1800,
+    "timeYear": 1802,
     "dailyMinutesDown": {
       "2024-06-06": 165,
       "2024-04-02": 72,
@@ -514,7 +515,7 @@
     "timeDay": 725,
     "timeWeek": 656,
     "timeMonth": 628,
-    "timeYear": 1394,
+    "timeYear": 1396,
     "dailyMinutesDown": {
       "2024-06-07": 15,
       "2024-03-13": 452,
@@ -578,7 +579,7 @@
     "timeDay": 728,
     "timeWeek": 677,
     "timeMonth": 660,
-    "timeYear": 1454,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2024-03-22": 43,
       "2024-03-13": 526,
@@ -623,7 +624,7 @@
     "timeDay": 726,
     "timeWeek": 668,
     "timeMonth": 632,
-    "timeYear": 1498,
+    "timeYear": 1499,
     "dailyMinutesDown": {
       "2024-06-07": 15,
       "2024-03-13": 452,
@@ -658,7 +659,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/miobra.osperyh.org.ar.ico",
     "slug": "mi-obra-app-miobra-osperyh-org-ar",
     "status": "down",
-    "uptime": "97.54%",
+    "uptime": "97.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -667,7 +668,7 @@
     "timeDay": 886,
     "timeWeek": 1044,
     "timeMonth": 1079,
-    "timeYear": 1639,
+    "timeYear": 1641,
     "dailyMinutesDown": {
       "2024-03-27": 1217,
       "2024-03-26": 1440,
@@ -735,7 +736,7 @@
     "timeDay": 10708,
     "timeWeek": 10832,
     "timeMonth": 10758,
-    "timeYear": 2401,
+    "timeYear": 2405,
     "dailyMinutesDown": {
       "2024-04-23": 741,
       "2024-04-22": 1440,
@@ -841,7 +842,7 @@
     "timeDay": 911,
     "timeWeek": 856,
     "timeMonth": 900,
-    "timeYear": 1570,
+    "timeYear": 1572,
     "dailyMinutesDown": {
       "2024-03-27": 1217,
       "2024-03-26": 1440,
@@ -903,7 +904,7 @@
     "timeDay": 760,
     "timeWeek": 693,
     "timeMonth": 707,
-    "timeYear": 1464,
+    "timeYear": 1466,
     "dailyMinutesDown": {
       "2024-03-21": 9,
       "2024-02-29": 34,
@@ -945,7 +946,7 @@
     "timeDay": 780,
     "timeWeek": 747,
     "timeMonth": 733,
-    "timeYear": 2175,
+    "timeYear": 2178,
     "dailyMinutesDown": {
       "2024-06-18": 40,
       "2024-06-12": 129,
@@ -983,7 +984,7 @@
     "timeDay": 1564,
     "timeWeek": 4061,
     "timeMonth": 7977,
-    "timeYear": 2769,
+    "timeYear": 2776,
     "dailyMinutesDown": {
       "2024-03-22": 38,
       "2024-01-28": 34,
@@ -1008,7 +1009,7 @@
     "timeDay": 750,
     "timeWeek": 707,
     "timeMonth": 1612,
-    "timeYear": 2290,
+    "timeYear": 2293,
     "dailyMinutesDown": {
       "2024-06-13": 17,
       "2024-06-12": 9,
@@ -1042,7 +1043,7 @@
     "timeDay": 727,
     "timeWeek": 686,
     "timeMonth": 1282,
-    "timeYear": 1255,
+    "timeYear": 1256,
     "dailyMinutesDown": {
       "2024-06-13": 16,
       "2024-06-12": 8,
@@ -1124,7 +1125,7 @@
     "timeDay": 1071,
     "timeWeek": 1112,
     "timeMonth": 1157,
-    "timeYear": 1139,
+    "timeYear": 1141,
     "dailyMinutesDown": {
       "2024-06-26": 12,
       "2024-06-07": 13,
@@ -1163,7 +1164,7 @@
     "timeDay": 822,
     "timeWeek": 684,
     "timeMonth": 665,
-    "timeYear": 1751,
+    "timeYear": 1753,
     "dailyMinutesDown": {
       "2024-06-13": 34,
       "2024-06-07": 12,
@@ -1216,11 +1217,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "down",
-    "uptime": "91.55%",
+    "uptime": "91.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.55%",
+    "uptimeYear": "91.56%",
     "time": 1631,
     "timeDay": 1710,
     "timeWeek": 1492,
@@ -1287,7 +1288,7 @@
     "timeDay": 688,
     "timeWeek": 619,
     "timeMonth": 1121,
-    "timeYear": 1454,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2024-06-13": 15,
       "2024-06-12": 8,
@@ -1320,7 +1321,7 @@
     "timeDay": 389,
     "timeWeek": 510,
     "timeMonth": 493,
-    "timeYear": 579,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2024-03-19": 767,
       "2024-03-18": 1440,
