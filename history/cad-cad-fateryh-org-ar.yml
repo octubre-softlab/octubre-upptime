@@ -1,7 +1,7 @@
 url: https://cad.fateryh.org.ar/api/health
-status: down
-code: 503
-responseTime: 1054
-lastUpdated: 2024-07-05T02:47:26.127Z
+status: up
+code: 200
+responseTime: 202
+lastUpdated: 2024-07-05T02:54:01.285Z
 startTime: 2022-04-12T15:18:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
