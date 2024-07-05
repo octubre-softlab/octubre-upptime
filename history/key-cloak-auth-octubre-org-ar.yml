@@ -1,7 +1,7 @@
 url: https://auth.octubre.org.ar/auth/
-status: down
-code: 521
-responseTime: 361
-lastUpdated: 2024-07-04T23:15:32.294Z
+status: up
+code: 200
+responseTime: 807
+lastUpdated: 2024-07-05T00:27:11.954Z
 startTime: 2022-04-18T20:35:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
