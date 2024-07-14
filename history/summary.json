@@ -13,7 +13,7 @@
     "time": 1707,
     "timeDay": 1023,
     "timeWeek": 1070,
-    "timeMonth": 1493,
+    "timeMonth": 1513,
     "timeYear": 1703,
     "dailyMinutesDown": {
       "2024-07-06": 11,
@@ -61,7 +61,7 @@
     "time": 1054,
     "timeDay": 642,
     "timeWeek": 726,
-    "timeMonth": 1316,
+    "timeMonth": 1325,
     "timeYear": 1059,
     "dailyMinutesDown": {
       "2024-07-05": 6,
@@ -108,7 +108,7 @@
     "time": 1351,
     "timeDay": 721,
     "timeWeek": 752,
-    "timeMonth": 713,
+    "timeMonth": 715,
     "timeYear": 1376,
     "dailyMinutesDown": {
       "2024-07-05": 7,
@@ -201,7 +201,7 @@
     "time": 1731,
     "timeDay": 665,
     "timeWeek": 708,
-    "timeMonth": 715,
+    "timeMonth": 718,
     "timeYear": 1755,
     "dailyMinutesDown": {
       "2024-06-07": 17,
@@ -249,7 +249,7 @@
     "time": 1615,
     "timeDay": 633,
     "timeWeek": 655,
-    "timeMonth": 655,
+    "timeMonth": 659,
     "timeYear": 1660,
     "dailyMinutesDown": {
       "2024-07-02": 6,
@@ -293,18 +293,19 @@
     "url": "https://gitlab.octubre.org.ar/-/readiness?token=$GIT_LAB_TOKEN",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.octubre.org.ar.ico",
     "slug": "git-lab-gitlab-octubre-org-ar",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "98.51%",
+    "uptimeYear": "98.52%",
     "time": 2960,
     "timeDay": 641,
     "timeWeek": 728,
-    "timeMonth": 712,
+    "timeMonth": 714,
     "timeYear": 3095,
     "dailyMinutesDown": {
+      "2024-07-14": 1,
       "2024-07-04": 105,
       "2024-07-02": 33,
       "2024-06-28": 20,
@@ -342,7 +343,7 @@
       "2023-09-28": 7,
       "2023-09-25": 822,
       "2023-09-24": 1074,
-      "2023-09-23": 340
+      "2023-09-23": 308
     }
   },
   {
@@ -359,7 +360,7 @@
     "time": 2033,
     "timeDay": 719,
     "timeWeek": 815,
-    "timeMonth": 764,
+    "timeMonth": 770,
     "timeYear": 2109,
     "dailyMinutesDown": {
       "2024-06-07": 16,
@@ -446,7 +447,7 @@
     "time": 1742,
     "timeDay": 710,
     "timeWeek": 709,
-    "timeMonth": 711,
+    "timeMonth": 714,
     "timeYear": 1766,
     "dailyMinutesDown": {
       "2024-06-06": 165,
@@ -512,7 +513,7 @@
     "time": 1354,
     "timeDay": 624,
     "timeWeek": 653,
-    "timeMonth": 650,
+    "timeMonth": 654,
     "timeYear": 1382,
     "dailyMinutesDown": {
       "2024-06-07": 15,
@@ -571,7 +572,7 @@
     "time": 1407,
     "timeDay": 597,
     "timeWeek": 689,
-    "timeMonth": 668,
+    "timeMonth": 671,
     "timeYear": 1448,
     "dailyMinutesDown": {
       "2024-07-05": 13,
@@ -618,7 +619,7 @@
     "time": 1449,
     "timeDay": 640,
     "timeWeek": 653,
-    "timeMonth": 647,
+    "timeMonth": 651,
     "timeYear": 1473,
     "dailyMinutesDown": {
       "2024-06-07": 15,
@@ -662,7 +663,7 @@
     "time": 1609,
     "timeDay": 1732,
     "timeWeek": 1308,
-    "timeMonth": 1165,
+    "timeMonth": 1180,
     "timeYear": 1656,
     "dailyMinutesDown": {
       "2024-03-27": 1217,
@@ -729,7 +730,7 @@
     "time": 2689,
     "timeDay": 10585,
     "timeWeek": 11460,
-    "timeMonth": 10957,
+    "timeMonth": 10966,
     "timeYear": 2806,
     "dailyMinutesDown": {
       "2024-04-23": 741,
@@ -829,7 +830,7 @@
     "time": 1535,
     "timeDay": 1569,
     "timeWeek": 949,
-    "timeMonth": 956,
+    "timeMonth": 964,
     "timeYear": 1559,
     "dailyMinutesDown": {
       "2024-03-27": 1217,
@@ -883,7 +884,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.osperyhra.org.ar.ico",
     "slug": "osra-octubre-osperyhra-org-ar",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
@@ -891,7 +892,7 @@
     "time": 1440,
     "timeDay": 676,
     "timeWeek": 688,
-    "timeMonth": 670,
+    "timeMonth": 674,
     "timeYear": 1439,
     "dailyMinutesDown": {
       "2024-07-04": 10,
@@ -934,7 +935,7 @@
     "time": 2127,
     "timeDay": 736,
     "timeWeek": 2317,
-    "timeMonth": 1253,
+    "timeMonth": 1272,
     "timeYear": 2180,
     "dailyMinutesDown": {
       "2024-07-10": 52,
@@ -975,7 +976,7 @@
     "time": 2842,
     "timeDay": 8226,
     "timeWeek": 6745,
-    "timeMonth": 6053,
+    "timeMonth": 5935,
     "timeYear": 2998,
     "dailyMinutesDown": {
       "2024-03-22": 38,
@@ -1000,7 +1001,7 @@
     "time": 2197,
     "timeDay": 683,
     "timeWeek": 704,
-    "timeMonth": 717,
+    "timeMonth": 720,
     "timeYear": 2283,
     "dailyMinutesDown": {
       "2024-06-13": 17,
@@ -1033,7 +1034,7 @@
     "time": 1220,
     "timeDay": 647,
     "timeWeek": 694,
-    "timeMonth": 680,
+    "timeMonth": 684,
     "timeYear": 1243,
     "dailyMinutesDown": {
       "2024-06-13": 16,
@@ -1067,7 +1068,7 @@
     "time": 1131,
     "timeDay": 786,
     "timeWeek": 823,
-    "timeMonth": 840,
+    "timeMonth": 843,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2024-07-04": 81,
@@ -1103,7 +1104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.seracarh.org.ar.ico",
     "slug": "seracarh-intranet-seracarh-org-ar",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
@@ -1111,7 +1112,7 @@
     "time": 1124,
     "timeDay": 1018,
     "timeWeek": 1035,
-    "timeMonth": 1066,
+    "timeMonth": 1070,
     "timeYear": 1150,
     "dailyMinutesDown": {
       "2024-07-04": 13,
@@ -1153,7 +1154,7 @@
     "time": 1690,
     "timeDay": 550,
     "timeWeek": 676,
-    "timeMonth": 703,
+    "timeMonth": 706,
     "timeYear": 1732,
     "dailyMinutesDown": {
       "2024-07-04": 13,
@@ -1214,7 +1215,7 @@
     "time": 1627,
     "timeDay": 1478,
     "timeWeek": 1542,
-    "timeMonth": 1492,
+    "timeMonth": 1514,
     "timeYear": 1627,
     "dailyMinutesDown": {
       "2024-03-27": 1217,
@@ -1276,7 +1277,7 @@
     "time": 1401,
     "timeDay": 621,
     "timeWeek": 612,
-    "timeMonth": 614,
+    "timeMonth": 616,
     "timeYear": 1438,
     "dailyMinutesDown": {
       "2024-06-13": 15,
@@ -1308,7 +1309,7 @@
     "time": 577,
     "timeDay": 572,
     "timeWeek": 596,
-    "timeMonth": 522,
+    "timeMonth": 518,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2024-07-04": 72,
@@ -1342,7 +1343,7 @@
     "time": 1515,
     "timeDay": 674,
     "timeWeek": 754,
-    "timeMonth": 753,
+    "timeMonth": 758,
     "timeYear": 1515,
     "dailyMinutesDown": {
       "2024-06-13": 14,
