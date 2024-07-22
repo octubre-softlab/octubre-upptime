@@ -1,7 +1,7 @@
 url: https://socios.suterh.org.ar/api/health
-status: down
-code: 503
-responseTime: 17255
-lastUpdated: 2024-07-21T04:39:26.694Z
+status: up
+code: 200
+responseTime: 558
+lastUpdated: 2024-07-22T00:11:20.014Z
 startTime: 2022-08-12T16:22:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
