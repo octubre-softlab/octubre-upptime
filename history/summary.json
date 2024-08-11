@@ -53,19 +53,19 @@
     "url": "https://rrhh.octubre.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/rrhh.octubre.org.ar.ico",
     "slug": "ahora-rrhh-octubre-org-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "12.89%",
-    "uptimeWeek": "80.68%",
+    "uptimeDay": "14.07%",
+    "uptimeWeek": "80.66%",
     "uptimeMonth": "95.55%",
     "uptimeYear": "99.45%",
-    "time": 1425,
-    "timeDay": 6914,
-    "timeWeek": 5721,
-    "timeMonth": 4510,
-    "timeYear": 1454,
+    "time": 1439,
+    "timeDay": 7101,
+    "timeWeek": 5840,
+    "timeMonth": 4612,
+    "timeYear": 1469,
     "dailyMinutesDown": {
-      "2024-08-11": 893,
+      "2024-08-11": 895,
       "2024-08-10": 499,
       "2024-08-09": 534,
       "2024-08-08": 25,
@@ -94,7 +94,7 @@
       "2024-06-01": 17,
       "2024-05-31": 11,
       "2024-04-02": 94,
-      "2024-04-01": 28
+      "2024-04-01": 20
     }
   },
   {
