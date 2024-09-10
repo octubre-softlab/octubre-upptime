@@ -1,7 +1,7 @@
 url: https://guau.umet.edu.ar/api/appstatus
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-10T09:29:52.840Z
+status: up
+code: 200
+responseTime: 784
+lastUpdated: 2024-09-10T09:42:08.737Z
 startTime: 2022-04-12T15:18:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
