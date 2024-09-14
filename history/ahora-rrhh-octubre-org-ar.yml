@@ -1,7 +1,7 @@
 url: https://rrhh.octubre.org.ar/api/health
-status: up
-code: 200
-responseTime: 665
-lastUpdated: 2024-09-14T01:26:59.624Z
+status: down
+code: 503
+responseTime: 728
+lastUpdated: 2024-09-14T09:42:06.632Z
 startTime: 2022-04-12T15:19:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
