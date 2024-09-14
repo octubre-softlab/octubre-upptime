@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.62%",
-    "time": 1630,
-    "timeDay": 999,
-    "timeWeek": 924,
-    "timeMonth": 798,
+    "time": 1628,
+    "timeDay": 978,
+    "timeWeek": 927,
+    "timeMonth": 803,
     "timeYear": 1574,
     "dailyMinutesDown": {
       "2024-08-28": 8,
@@ -60,10 +60,10 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.32%",
-    "time": 1498,
-    "timeDay": 689,
-    "timeWeek": 2863,
-    "timeMonth": 1261,
+    "time": 1497,
+    "timeDay": 665,
+    "timeWeek": 2831,
+    "timeMonth": 1259,
     "timeYear": 1547,
     "dailyMinutesDown": {
       "2024-09-10": 16,
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.50%",
-    "time": 1332,
-    "timeDay": 652,
-    "timeWeek": 887,
-    "timeMonth": 795,
-    "timeYear": 1380,
+    "time": 1330,
+    "timeDay": 640,
+    "timeWeek": 775,
+    "timeMonth": 789,
+    "timeYear": 1377,
     "dailyMinutesDown": {
       "2024-08-12": 43,
       "2024-08-10": 23,
@@ -146,8 +146,7 @@
       "2023-09-19": 615,
       "2023-09-18": 580,
       "2023-09-17": 1440,
-      "2023-09-16": 1347,
-      "2023-09-15": 496
+      "2023-09-16": 1347
     }
   },
   {
@@ -161,11 +160,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 676,
-    "timeDay": 591,
-    "timeWeek": 733,
-    "timeMonth": 715,
-    "timeYear": 676,
+    "time": 675,
+    "timeDay": 589,
+    "timeWeek": 700,
+    "timeMonth": 709,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2024-08-01": 16,
       "2024-07-25": 233,
@@ -198,11 +197,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "98.97%",
-    "time": 1596,
-    "timeDay": 636,
-    "timeWeek": 758,
-    "timeMonth": 695,
-    "timeYear": 1154,
+    "time": 1594,
+    "timeDay": 643,
+    "timeWeek": 742,
+    "timeMonth": 691,
+    "timeYear": 1152,
     "dailyMinutesDown": {
       "2024-09-10": 21,
       "2024-08-20": 36,
@@ -225,8 +224,7 @@
       "2023-09-19": 111,
       "2023-09-18": 734,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 647
+      "2023-09-16": 1440
     }
   },
   {
@@ -240,11 +238,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "97.84%",
-    "time": 1476,
-    "timeDay": 558,
-    "timeWeek": 706,
-    "timeMonth": 645,
-    "timeYear": 1295,
+    "time": 1474,
+    "timeDay": 570,
+    "timeWeek": 686,
+    "timeMonth": 640,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2024-09-10": 19,
       "2024-08-20": 36,
@@ -271,8 +269,7 @@
       "2023-09-19": 60,
       "2023-09-18": 734,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 644
+      "2023-09-16": 1440
     }
   },
   {
@@ -282,15 +279,15 @@
     "slug": "git-lab-gitlab-octubre-org-ar",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "98.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.74%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.52%",
     "time": 2709,
-    "timeDay": 636,
-    "timeWeek": 775,
-    "timeMonth": 687,
-    "timeYear": 3146,
+    "timeDay": 634,
+    "timeWeek": 760,
+    "timeMonth": 689,
+    "timeYear": 3151,
     "dailyMinutesDown": {
       "2024-09-12": 21,
       "2024-08-29": 11,
@@ -351,11 +348,11 @@
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "97.10%",
-    "time": 1910,
-    "timeDay": 633,
-    "timeWeek": 829,
-    "timeMonth": 759,
-    "timeYear": 1964,
+    "time": 1907,
+    "timeDay": 604,
+    "timeWeek": 792,
+    "timeMonth": 754,
+    "timeYear": 1963,
     "dailyMinutesDown": {
       "2024-09-10": 12,
       "2024-08-20": 34,
@@ -402,8 +399,7 @@
       "2023-09-19": 28,
       "2023-09-18": 734,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 637
+      "2023-09-16": 1440
     }
   },
   {
@@ -417,11 +413,11 @@
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.70%",
-    "time": 1633,
-    "timeDay": 625,
-    "timeWeek": 749,
-    "timeMonth": 679,
-    "timeYear": 1559,
+    "time": 1632,
+    "timeDay": 675,
+    "timeWeek": 717,
+    "timeMonth": 678,
+    "timeYear": 1558,
     "dailyMinutesDown": {
       "2024-09-09": 12,
       "2024-08-29": 30,
@@ -445,8 +441,7 @@
       "2023-09-19": 84,
       "2023-09-18": 734,
       "2023-09-17": 1440,
-      "2023-09-16": 1439,
-      "2023-09-15": 643
+      "2023-09-16": 1439
     }
   },
   {
@@ -461,10 +456,10 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.79%",
     "time": 1267,
-    "timeDay": 567,
-    "timeWeek": 723,
-    "timeMonth": 637,
-    "timeYear": 918,
+    "timeDay": 564,
+    "timeWeek": 703,
+    "timeMonth": 636,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2024-09-10": 10,
       "2024-08-29": 30,
@@ -482,8 +477,7 @@
       "2023-09-19": 83,
       "2023-09-18": 734,
       "2023-09-17": 1440,
-      "2023-09-16": 1437,
-      "2023-09-15": 628
+      "2023-09-16": 1437
     }
   },
   {
@@ -497,11 +491,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.61%",
-    "time": 1307,
-    "timeDay": 604,
-    "timeWeek": 723,
-    "timeMonth": 649,
-    "timeYear": 1351,
+    "time": 1305,
+    "timeDay": 585,
+    "timeWeek": 683,
+    "timeMonth": 644,
+    "timeYear": 1352,
     "dailyMinutesDown": {
       "2024-08-12": 24,
       "2024-08-10": 22,
@@ -522,8 +516,7 @@
       "2023-09-19": 600,
       "2023-09-18": 581,
       "2023-09-17": 1440,
-      "2023-09-16": 1238,
-      "2023-09-15": 336
+      "2023-09-16": 1238
     }
   },
   {
@@ -532,16 +525,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.mepadip.com.ar.ico",
     "slug": "mepadip-octubre-mepadip-com-ar",
     "status": "up",
-    "uptime": "98.70%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "98.94%",
-    "time": 1329,
+    "time": 1327,
     "timeDay": 567,
-    "timeWeek": 752,
-    "timeMonth": 651,
-    "timeYear": 1144,
+    "timeWeek": 709,
+    "timeMonth": 646,
+    "timeYear": 1139,
     "dailyMinutesDown": {
       "2024-09-10": 10,
       "2024-09-03": 7,
@@ -561,8 +554,7 @@
       "2023-09-19": 103,
       "2023-09-18": 741,
       "2023-09-17": 1440,
-      "2023-09-16": 1436,
-      "2023-09-15": 631
+      "2023-09-16": 1436
     }
   },
   {
@@ -576,11 +568,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.29%",
-    "time": 2064,
-    "timeDay": 4596,
-    "timeWeek": 4458,
-    "timeMonth": 5515,
-    "timeYear": 2185,
+    "time": 2071,
+    "timeDay": 3881,
+    "timeWeek": 4404,
+    "timeMonth": 5505,
+    "timeYear": 2188,
     "dailyMinutesDown": {
       "2024-07-26": 15,
       "2024-07-25": 683,
@@ -621,8 +613,7 @@
       "2023-09-19": 63,
       "2023-09-18": 734,
       "2023-09-17": 1440,
-      "2023-09-16": 1434,
-      "2023-09-15": 629
+      "2023-09-16": 1434
     }
   },
   {
@@ -636,11 +627,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.00%",
-    "time": 3835,
-    "timeDay": 10703,
-    "timeWeek": 10880,
-    "timeMonth": 10763,
-    "timeYear": 4433,
+    "time": 3857,
+    "timeDay": 10829,
+    "timeWeek": 10841,
+    "timeMonth": 10764,
+    "timeYear": 4461,
     "dailyMinutesDown": {
       "2024-04-23": 741,
       "2024-04-22": 1440,
@@ -696,8 +687,7 @@
       "2023-09-19": 23,
       "2023-09-18": 734,
       "2023-09-17": 1440,
-      "2023-09-16": 1433,
-      "2023-09-15": 638
+      "2023-09-16": 1433
     }
   },
   {
@@ -711,11 +701,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.21%",
-    "time": 1799,
-    "timeDay": 4564,
-    "timeWeek": 4448,
-    "timeMonth": 4488,
-    "timeYear": 1689,
+    "time": 1807,
+    "timeDay": 4443,
+    "timeWeek": 4452,
+    "timeMonth": 4489,
+    "timeYear": 1699,
     "dailyMinutesDown": {
       "2024-03-27": 1217,
       "2024-03-26": 1440,
@@ -750,8 +740,7 @@
       "2023-09-19": 629,
       "2023-09-18": 742,
       "2023-09-17": 1440,
-      "2023-09-16": 1431,
-      "2023-09-15": 622
+      "2023-09-16": 1431
     }
   },
   {
@@ -760,16 +749,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.osperyhra.org.ar.ico",
     "slug": "osra-octubre-osperyhra-org-ar",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.86%",
-    "time": 1342,
-    "timeDay": 594,
-    "timeWeek": 725,
-    "timeMonth": 705,
-    "timeYear": 1216,
+    "time": 1340,
+    "timeDay": 585,
+    "timeWeek": 691,
+    "timeMonth": 700,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2024-08-12": 10,
       "2024-07-30": 7,
@@ -789,8 +778,7 @@
       "2023-09-19": 103,
       "2023-09-18": 735,
       "2023-09-17": 1440,
-      "2023-09-16": 1430,
-      "2023-09-15": 621
+      "2023-09-16": 1430
     }
   },
   {
@@ -801,14 +789,14 @@
     "status": "up",
     "uptime": "99.26%",
     "uptimeDay": "99.10%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.61%",
-    "time": 2071,
-    "timeDay": 1054,
-    "timeWeek": 1185,
-    "timeMonth": 1255,
-    "timeYear": 1918,
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.63%",
+    "time": 2068,
+    "timeDay": 1048,
+    "timeWeek": 1181,
+    "timeMonth": 1256,
+    "timeYear": 1908,
     "dailyMinutesDown": {
       "2024-09-13": 13,
       "2024-09-11": 12,
@@ -855,11 +843,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 3698,
-    "timeDay": 8723,
-    "timeWeek": 9653,
-    "timeMonth": 9104,
-    "timeYear": 4129,
+    "time": 3695,
+    "timeDay": 2448,
+    "timeWeek": 8436,
+    "timeMonth": 8874,
+    "timeYear": 4132,
     "dailyMinutesDown": {
       "2024-03-22": 38,
       "2024-01-28": 34,
@@ -879,11 +867,11 @@
     "uptimeWeek": "92.62%",
     "uptimeMonth": "98.30%",
     "uptimeYear": "99.44%",
-    "time": 1980,
-    "timeDay": 589,
-    "timeWeek": 675,
-    "timeMonth": 667,
-    "timeYear": 1566,
+    "time": 1977,
+    "timeDay": 612,
+    "timeWeek": 659,
+    "timeMonth": 663,
+    "timeYear": 1560,
     "dailyMinutesDown": {
       "2024-09-10": 744,
       "2024-07-22": 11,
@@ -913,11 +901,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 1149,
-    "timeDay": 591,
-    "timeWeek": 715,
-    "timeMonth": 791,
-    "timeYear": 1130,
+    "time": 1148,
+    "timeDay": 585,
+    "timeWeek": 705,
+    "timeMonth": 785,
+    "timeYear": 1126,
     "dailyMinutesDown": {
       "2024-07-15": 19,
       "2024-06-13": 16,
@@ -946,10 +934,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.46%",
     "time": 1086,
-    "timeDay": 780,
-    "timeWeek": 851,
-    "timeMonth": 786,
-    "timeYear": 974,
+    "timeDay": 773,
+    "timeWeek": 849,
+    "timeMonth": 785,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2024-08-20": 25,
       "2024-07-04": 81,
@@ -989,10 +977,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "98.98%",
     "time": 1116,
-    "timeDay": 949,
-    "timeWeek": 1144,
-    "timeMonth": 994,
-    "timeYear": 1182,
+    "timeDay": 932,
+    "timeWeek": 1110,
+    "timeMonth": 988,
+    "timeYear": 1183,
     "dailyMinutesDown": {
       "2024-08-20": 25,
       "2024-07-15": 36,
@@ -1014,8 +1002,7 @@
       "2023-09-19": 116,
       "2023-09-18": 735,
       "2023-09-17": 1440,
-      "2023-09-16": 1428,
-      "2023-09-15": 620
+      "2023-09-16": 1428
     }
   },
   {
@@ -1030,10 +1017,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.59%",
     "time": 1571,
-    "timeDay": 558,
-    "timeWeek": 692,
+    "timeDay": 651,
+    "timeWeek": 698,
     "timeMonth": 652,
-    "timeYear": 1470,
+    "timeYear": 1468,
     "dailyMinutesDown": {
       "2024-08-20": 23,
       "2024-07-15": 35,
@@ -1068,8 +1055,7 @@
       "2023-09-19": 115,
       "2023-09-18": 735,
       "2023-09-17": 1440,
-      "2023-09-16": 1426,
-      "2023-09-15": 618
+      "2023-09-16": 1426
     }
   },
   {
@@ -1077,18 +1063,19 @@
     "url": "https://octubre.suterh.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
-    "status": "up",
-    "uptime": "93.09%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "93.10%",
+    "uptimeDay": "99.91%",
     "uptimeWeek": "97.28%",
     "uptimeMonth": "97.38%",
     "uptimeYear": "93.16%",
-    "time": 1976,
-    "timeDay": 1605,
-    "timeWeek": 4553,
-    "timeMonth": 4088,
-    "timeYear": 1999,
+    "time": 2016,
+    "timeDay": 8613,
+    "timeWeek": 4438,
+    "timeMonth": 4323,
+    "timeYear": 2044,
     "dailyMinutesDown": {
+      "2024-09-14": 1,
       "2024-09-08": 130,
       "2024-09-07": 144,
       "2024-09-01": 157,
@@ -1152,11 +1139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 1322,
-    "timeDay": 544,
-    "timeWeek": 664,
-    "timeMonth": 597,
-    "timeYear": 1371,
+    "time": 1320,
+    "timeDay": 542,
+    "timeWeek": 610,
+    "timeMonth": 591,
+    "timeYear": 1367,
     "dailyMinutesDown": {
       "2024-07-22": 11,
       "2024-07-21": 1161,
@@ -1185,9 +1172,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "97.89%",
     "time": 561,
-    "timeDay": 393,
-    "timeWeek": 496,
-    "timeMonth": 466,
+    "timeDay": 525,
+    "timeWeek": 471,
+    "timeMonth": 471,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2024-08-20": 22,
@@ -1219,11 +1206,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 1376,
-    "timeDay": 682,
-    "timeWeek": 739,
-    "timeMonth": 727,
-    "timeYear": 1376,
+    "time": 1374,
+    "timeDay": 597,
+    "timeWeek": 708,
+    "timeMonth": 721,
+    "timeYear": 1374,
     "dailyMinutesDown": {
       "2024-07-19": 3,
       "2024-07-15": 14,
