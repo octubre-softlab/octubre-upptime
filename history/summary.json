@@ -61,11 +61,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.32%",
-    "time": 1494,
+    "time": 1508,
     "timeDay": 878,
     "timeWeek": 2479,
     "timeMonth": 1237,
-    "timeYear": 1547,
+    "timeYear": 1546,
     "dailyMinutesDown": {
       "2024-09-14": 10,
       "2024-09-10": 16,
@@ -109,7 +109,7 @@
     "uptimeDay": "99.34%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
-    "uptimeYear": "98.62%",
+    "uptimeYear": "98.86%",
     "time": 1351,
     "timeDay": 755,
     "timeWeek": 766,
@@ -145,8 +145,7 @@
       "2023-09-26": 17,
       "2023-09-22": 564,
       "2023-09-20": 28,
-      "2023-09-19": 615,
-      "2023-09-18": 580
+      "2023-09-19": 615
     }
   },
   {
@@ -197,12 +196,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.14%",
+    "uptimeYear": "99.38%",
     "time": 1590,
     "timeDay": 846,
     "timeWeek": 766,
     "timeMonth": 699,
-    "timeYear": 1150,
+    "timeYear": 1131,
     "dailyMinutesDown": {
       "2024-09-10": 21,
       "2024-08-20": 36,
@@ -222,8 +221,7 @@
       "2023-10-11": 7,
       "2023-10-05": 7,
       "2023-09-22": 6,
-      "2023-09-19": 111,
-      "2023-09-18": 734
+      "2023-09-19": 111
     }
   },
   {
@@ -236,7 +234,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "98.01%",
+    "uptimeYear": "98.25%",
     "time": 1471,
     "timeDay": 805,
     "timeWeek": 690,
@@ -265,8 +263,7 @@
       "2023-09-26": 1440,
       "2023-09-25": 1440,
       "2023-09-24": 1377,
-      "2023-09-19": 60,
-      "2023-09-18": 734
+      "2023-09-19": 60
     }
   },
   {
@@ -284,7 +281,7 @@
     "timeDay": 854,
     "timeWeek": 781,
     "timeMonth": 697,
-    "timeYear": 3157,
+    "timeYear": 3163,
     "dailyMinutesDown": {
       "2024-09-12": 21,
       "2024-08-29": 11,
@@ -344,7 +341,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "97.27%",
+    "uptimeYear": "97.51%",
     "time": 1907,
     "timeDay": 829,
     "timeWeek": 756,
@@ -393,8 +390,7 @@
       "2023-09-24": 9,
       "2023-09-22": 61,
       "2023-09-21": 6,
-      "2023-09-19": 28,
-      "2023-09-18": 734
+      "2023-09-19": 28
     }
   },
   {
@@ -405,14 +401,14 @@
     "status": "up",
     "uptime": "99.03%",
     "uptimeDay": "99.55%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "99.11%",
     "time": 1629,
     "timeDay": 702,
-    "timeWeek": 695,
+    "timeWeek": 696,
     "timeMonth": 682,
-    "timeYear": 1552,
+    "timeYear": 1547,
     "dailyMinutesDown": {
       "2024-09-16": 7,
       "2024-09-09": 12,
@@ -434,8 +430,7 @@
       "2023-10-28": 12,
       "2023-10-21": 78,
       "2023-09-21": 8,
-      "2023-09-19": 84,
-      "2023-09-18": 734
+      "2023-09-19": 84
     }
   },
   {
@@ -448,12 +443,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "98.96%",
+    "uptimeYear": "99.20%",
     "time": 1266,
     "timeDay": 786,
     "timeWeek": 699,
     "timeMonth": 644,
-    "timeYear": 900,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2024-09-10": 10,
       "2024-08-29": 30,
@@ -468,8 +463,7 @@
       "2023-11-28": 108,
       "2023-11-09": 42,
       "2023-11-07": 246,
-      "2023-09-19": 83,
-      "2023-09-18": 734
+      "2023-09-19": 83
     }
   },
   {
@@ -482,12 +476,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.93%",
     "time": 1303,
     "timeDay": 780,
     "timeWeek": 691,
     "timeMonth": 651,
-    "timeYear": 1293,
+    "timeYear": 1295,
     "dailyMinutesDown": {
       "2024-08-12": 24,
       "2024-08-10": 22,
@@ -505,8 +499,7 @@
       "2023-09-25": 8,
       "2023-09-22": 535,
       "2023-09-20": 27,
-      "2023-09-19": 600,
-      "2023-09-18": 581
+      "2023-09-19": 600
     }
   },
   {
@@ -519,7 +512,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.90%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.10%",
+    "uptimeYear": "99.35%",
     "time": 1324,
     "timeDay": 802,
     "timeWeek": 702,
@@ -541,8 +534,7 @@
       "2023-11-09": 42,
       "2023-11-03": 44,
       "2023-09-22": 14,
-      "2023-09-19": 103,
-      "2023-09-18": 741
+      "2023-09-19": 103
     }
   },
   {
@@ -551,11 +543,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/miobra.osperyh.org.ar.ico",
     "slug": "mi-obra-app-miobra-osperyh-org-ar",
     "status": "down",
-    "uptime": "97.61%",
+    "uptime": "97.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.46%",
+    "uptimeYear": "96.70%",
     "time": 2096,
     "timeDay": 4319,
     "timeWeek": 5044,
@@ -598,8 +590,7 @@
       "2023-10-21": 77,
       "2023-09-28": 20,
       "2023-09-22": 128,
-      "2023-09-19": 63,
-      "2023-09-18": 734
+      "2023-09-19": 63
     }
   },
   {
@@ -608,11 +599,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/miweb.umet.edu.ar.ico",
     "slug": "mi-web-app-miweb-umet-edu-ar",
     "status": "down",
-    "uptime": "95.81%",
+    "uptime": "95.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.17%",
+    "uptimeYear": "91.41%",
     "time": 3901,
     "timeDay": 10917,
     "timeWeek": 10815,
@@ -670,8 +661,7 @@
       "2023-10-11": 635,
       "2023-09-28": 20,
       "2023-09-22": 58,
-      "2023-09-19": 23,
-      "2023-09-18": 734
+      "2023-09-19": 23
     }
   },
   {
@@ -684,7 +674,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.38%",
+    "uptimeYear": "96.62%",
     "time": 1824,
     "timeDay": 4513,
     "timeWeek": 4504,
@@ -721,8 +711,7 @@
       "2023-09-22": 128,
       "2023-09-21": 8,
       "2023-09-20": 143,
-      "2023-09-19": 629,
-      "2023-09-18": 742
+      "2023-09-19": 629
     }
   },
   {
@@ -732,15 +721,15 @@
     "slug": "osra-octubre-osperyhra-org-ar",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "98.27%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.26%",
     "time": 1342,
-    "timeDay": 1953,
+    "timeDay": 764,
     "timeWeek": 1036,
     "timeMonth": 782,
-    "timeYear": 1208,
+    "timeYear": 1204,
     "dailyMinutesDown": {
       "2024-09-15": 25,
       "2024-08-12": 10,
@@ -758,8 +747,7 @@
       "2023-10-24": 45,
       "2023-10-06": 421,
       "2023-09-22": 127,
-      "2023-09-19": 103,
-      "2023-09-18": 735
+      "2023-09-19": 103
     }
   },
   {
@@ -767,17 +755,17 @@
     "url": "https://app.osperyhra.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.osperyhra.org.ar.ico",
     "slug": "osra-app-app-osperyhra-org-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "97.23%",
+    "uptimeDay": "98.87%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.62%",
     "time": 2062,
-    "timeDay": 1841,
+    "timeDay": 748,
     "timeWeek": 1129,
     "timeMonth": 1291,
-    "timeYear": 1904,
+    "timeYear": 1902,
     "dailyMinutesDown": {
       "2024-09-16": 16,
       "2024-09-15": 24,
@@ -812,8 +800,7 @@
       "2023-11-29": 32,
       "2023-11-28": 112,
       "2023-11-21": 18,
-      "2023-10-21": 75,
-      "2023-09-18": 142
+      "2023-10-21": 75
     }
   },
   {
@@ -831,7 +818,7 @@
     "timeDay": 9249,
     "timeWeek": 7996,
     "timeMonth": 8870,
-    "timeYear": 4177,
+    "timeYear": 4183,
     "dailyMinutesDown": {
       "2024-03-22": 38,
       "2024-01-28": 34,
@@ -855,7 +842,7 @@
     "timeDay": 835,
     "timeWeek": 750,
     "timeMonth": 676,
-    "timeYear": 1550,
+    "timeYear": 1552,
     "dailyMinutesDown": {
       "2024-09-10": 744,
       "2024-07-22": 11,
@@ -889,7 +876,7 @@
     "timeDay": 781,
     "timeWeek": 690,
     "timeMonth": 792,
-    "timeYear": 1110,
+    "timeYear": 1109,
     "dailyMinutesDown": {
       "2024-07-15": 19,
       "2024-06-13": 16,
@@ -921,7 +908,7 @@
     "timeDay": 1042,
     "timeWeek": 904,
     "timeMonth": 795,
-    "timeYear": 976,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2024-08-20": 25,
       "2024-07-04": 81,
@@ -954,11 +941,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.seracarh.org.ar.ico",
     "slug": "seracarh-intranet-seracarh-org-ar",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.39%",
     "time": 1116,
     "timeDay": 1202,
     "timeWeek": 1108,
@@ -982,8 +969,7 @@
       "2023-11-09": 42,
       "2023-11-03": 14,
       "2023-10-11": 4,
-      "2023-09-19": 116,
-      "2023-09-18": 735
+      "2023-09-19": 116
     }
   },
   {
@@ -992,11 +978,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/siga.octubre.org.ar.ico",
     "slug": "siga-siga-octubre-org-ar",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.99%",
     "time": 1571,
     "timeDay": 852,
     "timeWeek": 735,
@@ -1033,8 +1019,7 @@
       "2023-10-18": 677,
       "2023-10-11": 4,
       "2023-09-22": 125,
-      "2023-09-19": 115,
-      "2023-09-18": 735
+      "2023-09-19": 115
     }
   },
   {
@@ -1043,13 +1028,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "up",
-    "uptime": "93.09%",
-    "uptimeDay": "91.81%",
+    "uptime": "93.10%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.55%",
     "uptimeMonth": "96.82%",
     "uptimeYear": "93.11%",
     "time": 2051,
-    "timeDay": 1491,
+    "timeDay": 1802,
     "timeWeek": 4400,
     "timeMonth": 4412,
     "timeYear": 2087,
@@ -1123,7 +1108,7 @@
     "timeDay": 783,
     "timeWeek": 626,
     "timeMonth": 594,
-    "timeYear": 1359,
+    "timeYear": 1360,
     "dailyMinutesDown": {
       "2024-07-22": 11,
       "2024-07-21": 1161,
@@ -1155,7 +1140,7 @@
     "timeDay": 405,
     "timeWeek": 462,
     "timeMonth": 468,
-    "timeYear": 554,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2024-08-20": 22,
       "2024-07-04": 72,
