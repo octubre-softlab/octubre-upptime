@@ -4,19 +4,20 @@
     "url": "https://acceso.suterh.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/acceso.suterh.org.ar.ico",
     "slug": "acceso-molinetes-acceso-suterh-org-ar",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "97.51%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "99.46%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.58%",
-    "time": 1801,
-    "timeDay": 3382,
-    "timeWeek": 4744,
-    "timeMonth": 2960,
-    "timeYear": 1754,
+    "time": 1799,
+    "timeDay": 2938,
+    "timeWeek": 4611,
+    "timeMonth": 2928,
+    "timeYear": 1752,
     "dailyMinutesDown": {
-      "2024-09-25": 36,
+      "2024-09-26": 11,
+      "2024-09-25": 41,
       "2024-09-19": 157,
       "2024-09-18": 24,
       "2024-09-16": 11,
@@ -48,8 +49,7 @@
       "2024-01-29": 9,
       "2023-11-28": 52,
       "2023-10-21": 79,
-      "2023-10-10": 25,
-      "2023-09-27": 8
+      "2023-10-10": 25
     }
   },
   {
@@ -230,7 +230,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 1455,
     "timeDay": 574,
     "timeWeek": 711,
@@ -255,8 +255,7 @@
       "2023-11-07": 123,
       "2023-11-06": 31,
       "2023-10-28": 44,
-      "2023-10-22": 67,
-      "2023-09-27": 97
+      "2023-10-22": 67
     }
   },
   {
@@ -1000,9 +999,9 @@
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "down",
     "uptime": "93.17%",
-    "uptimeDay": "88.08%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "96.96%",
+    "uptimeDay": "86.84%",
+    "uptimeWeek": "94.82%",
+    "uptimeMonth": "96.92%",
     "uptimeYear": "93.01%",
     "time": 2114,
     "timeDay": 1053,
@@ -1010,7 +1009,8 @@
     "timeMonth": 4066,
     "timeYear": 2150,
     "dailyMinutesDown": {
-      "2024-09-25": 172,
+      "2024-09-26": 14,
+      "2024-09-25": 176,
       "2024-09-22": 143,
       "2024-09-21": 189,
       "2024-09-15": 130,
