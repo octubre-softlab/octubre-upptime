@@ -120,7 +120,7 @@
     "timeDay": 811,
     "timeWeek": 783,
     "timeMonth": 793,
-    "timeYear": 1257,
+    "timeYear": 1259,
     "dailyMinutesDown": {
       "2024-09-16": 10,
       "2024-08-12": 43,
@@ -222,8 +222,7 @@
       "2023-11-13": 13,
       "2023-11-09": 42,
       "2023-11-03": 15,
-      "2023-10-24": 8,
-      "2023-10-11": 7
+      "2023-10-24": 8
     }
   },
   {
@@ -241,7 +240,7 @@
     "timeDay": 633,
     "timeWeek": 653,
     "timeMonth": 683,
-    "timeYear": 1165,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2024-10-01": 102,
       "2024-09-18": 12,
@@ -325,8 +324,7 @@
       "2023-10-23": 13,
       "2023-10-20": 22,
       "2023-10-18": 18,
-      "2023-10-16": 9,
-      "2023-10-11": 15
+      "2023-10-16": 9
     }
   },
   {
@@ -344,7 +342,7 @@
     "timeDay": 689,
     "timeWeek": 790,
     "timeMonth": 756,
-    "timeYear": 1907,
+    "timeYear": 1908,
     "dailyMinutesDown": {
       "2024-10-01": 187,
       "2024-09-10": 12,
@@ -381,8 +379,7 @@
       "2023-10-25": 28,
       "2023-10-21": 89,
       "2023-10-19": 292,
-      "2023-10-12": 9,
-      "2023-10-11": 635
+      "2023-10-12": 9
     }
   },
   {
@@ -400,7 +397,7 @@
     "timeDay": 687,
     "timeWeek": 690,
     "timeMonth": 703,
-    "timeYear": 1396,
+    "timeYear": 1398,
     "dailyMinutesDown": {
       "2024-09-16": 7,
       "2024-09-09": 12,
@@ -438,7 +435,7 @@
     "timeDay": 740,
     "timeWeek": 699,
     "timeMonth": 704,
-    "timeYear": 842,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2024-10-01": 148,
       "2024-09-10": 10,
@@ -471,7 +468,7 @@
     "timeDay": 666,
     "timeWeek": 676,
     "timeMonth": 690,
-    "timeYear": 1167,
+    "timeYear": 1169,
     "dailyMinutesDown": {
       "2024-08-12": 24,
       "2024-08-10": 22,
@@ -501,7 +498,7 @@
     "timeDay": 653,
     "timeWeek": 654,
     "timeMonth": 684,
-    "timeYear": 1038,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2024-10-01": 269,
       "2024-09-10": 10,
@@ -535,7 +532,7 @@
     "timeDay": 4314,
     "timeWeek": 5473,
     "timeMonth": 4782,
-    "timeYear": 2382,
+    "timeYear": 2380,
     "dailyMinutesDown": {
       "2024-07-26": 15,
       "2024-07-25": 683,
@@ -588,7 +585,7 @@
     "timeDay": 10655,
     "timeWeek": 10817,
     "timeMonth": 10803,
-    "timeYear": 5070,
+    "timeYear": 5076,
     "dailyMinutesDown": {
       "2024-04-23": 741,
       "2024-04-22": 1440,
@@ -637,8 +634,7 @@
       "2023-11-07": 19,
       "2023-10-21": 76,
       "2023-10-19": 292,
-      "2023-10-12": 9,
-      "2023-10-11": 635
+      "2023-10-12": 9
     }
   },
   {
@@ -656,7 +652,7 @@
     "timeDay": 4640,
     "timeWeek": 4524,
     "timeMonth": 4801,
-    "timeYear": 1796,
+    "timeYear": 1798,
     "dailyMinutesDown": {
       "2024-03-27": 1217,
       "2024-03-26": 1440,
@@ -729,18 +725,19 @@
     "url": "https://app.osperyhra.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.osperyhra.org.ar.ico",
     "slug": "osra-app-app-osperyhra-org-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "99.55%",
     "time": 2142,
     "timeDay": 1825,
     "timeWeek": 858,
     "timeMonth": 2695,
-    "timeYear": 2021,
+    "timeYear": 2023,
     "dailyMinutesDown": {
+      "2024-10-10": 1,
       "2024-09-29": 30,
       "2024-09-28": 26,
       "2024-09-27": 177,
@@ -801,7 +798,7 @@
     "timeDay": 9449,
     "timeWeek": 9525,
     "timeMonth": 8436,
-    "timeYear": 4638,
+    "timeYear": 4647,
     "dailyMinutesDown": {
       "2024-09-29": 30,
       "2024-03-22": 38,
@@ -860,7 +857,7 @@
     "timeDay": 688,
     "timeWeek": 689,
     "timeMonth": 700,
-    "timeYear": 1064,
+    "timeYear": 1065,
     "dailyMinutesDown": {
       "2024-07-15": 19,
       "2024-06-13": 16,
@@ -948,8 +945,7 @@
       "2023-11-28": 94,
       "2023-11-23": 22,
       "2023-11-09": 42,
-      "2023-11-03": 14,
-      "2023-10-11": 4
+      "2023-11-03": 14
     }
   },
   {
@@ -967,7 +963,7 @@
     "timeDay": 615,
     "timeWeek": 649,
     "timeMonth": 696,
-    "timeYear": 1412,
+    "timeYear": 1413,
     "dailyMinutesDown": {
       "2024-10-01": 103,
       "2024-08-20": 23,
@@ -997,8 +993,7 @@
       "2023-11-23": 21,
       "2023-11-09": 42,
       "2023-11-07": 46,
-      "2023-10-18": 677,
-      "2023-10-11": 4
+      "2023-10-18": 677
     }
   },
   {
@@ -1007,11 +1002,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "down",
-    "uptime": "93.37%",
+    "uptime": "93.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.79%",
-    "uptimeYear": "94.85%",
+    "uptimeYear": "94.92%",
     "time": 2105,
     "timeDay": 1973,
     "timeWeek": 1908,
@@ -1062,8 +1057,7 @@
       "2023-10-15": 1440,
       "2023-10-14": 1440,
       "2023-10-13": 1440,
-      "2023-10-12": 1440,
-      "2023-10-11": 1414
+      "2023-10-12": 1440
     }
   },
   {
@@ -1081,7 +1075,7 @@
     "timeDay": 592,
     "timeWeek": 619,
     "timeMonth": 615,
-    "timeYear": 1220,
+    "timeYear": 1218,
     "dailyMinutesDown": {
       "2024-10-06": 6,
       "2024-07-22": 11,
