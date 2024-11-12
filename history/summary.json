@@ -6,12 +6,12 @@
     "slug": "acceso-molinetes-acceso-suterh-org-ar",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.29%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.56%",
     "time": 1782,
-    "timeDay": 894,
+    "timeDay": 925,
     "timeWeek": 2651,
     "timeMonth": 1681,
     "timeYear": 1677,
@@ -65,19 +65,19 @@
     "url": "https://rrhh.octubre.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/rrhh.octubre.org.ar.ico",
     "slug": "ahora-rrhh-octubre-org-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "96.62%",
-    "uptimeYear": "99.21%",
-    "time": 1744,
-    "timeDay": 3549,
-    "timeWeek": 3277,
-    "timeMonth": 3066,
-    "timeYear": 1761,
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "96.61%",
+    "uptimeYear": "99.22%",
+    "time": 1753,
+    "timeDay": 4465,
+    "timeWeek": 3508,
+    "timeMonth": 3112,
+    "timeYear": 1770,
     "dailyMinutesDown": {
-      "2024-11-12": 22,
+      "2024-11-12": 24,
       "2024-11-11": 11,
       "2024-11-07": 132,
       "2024-11-06": 18,
@@ -108,7 +108,7 @@
       "2024-08-12": 401,
       "2024-08-11": 1246,
       "2024-08-10": 499,
-      "2024-08-09": 178
+      "2024-08-09": 126
     }
   },
   {
@@ -126,7 +126,7 @@
     "timeDay": 789,
     "timeWeek": 879,
     "timeMonth": 1875,
-    "timeYear": 1240,
+    "timeYear": 1241,
     "dailyMinutesDown": {
       "2024-11-12": 7,
       "2024-11-03": -32,
@@ -171,7 +171,7 @@
     "timeDay": 670,
     "timeWeek": 698,
     "timeMonth": 653,
-    "timeYear": 672,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2024-11-05": 11,
       "2024-10-01": 27,
@@ -207,7 +207,7 @@
     "timeDay": 697,
     "timeWeek": 717,
     "timeMonth": 765,
-    "timeYear": 894,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2024-11-01": 8,
       "2024-10-03": 10,
@@ -240,7 +240,7 @@
     "timeDay": 625,
     "timeWeek": 672,
     "timeMonth": 636,
-    "timeYear": 1013,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2024-10-14": 8,
       "2024-10-01": 102,
@@ -275,7 +275,7 @@
     "timeDay": 646,
     "timeWeek": 743,
     "timeMonth": 807,
-    "timeYear": 706,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2024-10-22": 23,
       "2024-10-02": 9,
@@ -328,7 +328,7 @@
     "timeDay": 643,
     "timeWeek": 733,
     "timeMonth": 837,
-    "timeYear": 1558,
+    "timeYear": 1532,
     "dailyMinutesDown": {
       "2024-10-01": 187,
       "2024-09-10": 12,
@@ -375,7 +375,7 @@
     "timeDay": 730,
     "timeWeek": 747,
     "timeMonth": 681,
-    "timeYear": 1263,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2024-11-05": 9,
       "2024-10-28": 11,
@@ -412,7 +412,7 @@
     "timeDay": 652,
     "timeWeek": 711,
     "timeMonth": 671,
-    "timeYear": 745,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2024-10-29": 157,
       "2024-10-15": 8,
@@ -445,7 +445,7 @@
     "timeDay": 944,
     "timeWeek": 714,
     "timeMonth": 1021,
-    "timeYear": 1035,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2024-11-11": 8,
       "2024-11-03": -24,
@@ -478,7 +478,7 @@
     "timeDay": 616,
     "timeWeek": 664,
     "timeMonth": 620,
-    "timeYear": 796,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2024-10-29": 157,
       "2024-10-15": 8,
@@ -558,7 +558,7 @@
     "timeDay": 10736,
     "timeWeek": 10759,
     "timeMonth": 10780,
-    "timeYear": 6019,
+    "timeYear": 6029,
     "dailyMinutesDown": {
       "2024-04-23": 741,
       "2024-04-22": 1440,
@@ -620,7 +620,7 @@
     "timeDay": 4290,
     "timeWeek": 4453,
     "timeMonth": 4671,
-    "timeYear": 2031,
+    "timeYear": 2034,
     "dailyMinutesDown": {
       "2024-03-27": 1217,
       "2024-03-26": 1440,
@@ -695,7 +695,7 @@
     "timeDay": 750,
     "timeWeek": 2044,
     "timeMonth": 3039,
-    "timeYear": 2027,
+    "timeYear": 2028,
     "dailyMinutesDown": {
       "2024-11-07": 25,
       "2024-11-02": 21,
@@ -764,7 +764,7 @@
     "timeDay": 9194,
     "timeWeek": 9056,
     "timeMonth": 9596,
-    "timeYear": 5406,
+    "timeYear": 5418,
     "dailyMinutesDown": {
       "2024-10-29": 10,
       "2024-10-21": 17,
@@ -790,7 +790,7 @@
     "timeDay": 697,
     "timeWeek": 723,
     "timeMonth": 647,
-    "timeYear": 1302,
+    "timeYear": 1304,
     "dailyMinutesDown": {
       "2024-11-12": 33,
       "2024-11-06": 12,
@@ -826,7 +826,7 @@
     "timeDay": 700,
     "timeWeek": 702,
     "timeMonth": 656,
-    "timeYear": 993,
+    "timeYear": 989,
     "dailyMinutesDown": {
       "2024-11-05": 7,
       "2024-10-24": 9,
@@ -883,7 +883,7 @@
     "timeDay": 1016,
     "timeWeek": 1068,
     "timeMonth": 1006,
-    "timeYear": 1046,
+    "timeYear": 1048,
     "dailyMinutesDown": {
       "2024-11-06": 11,
       "2024-10-09": 11,
@@ -921,7 +921,7 @@
     "timeDay": 686,
     "timeWeek": 689,
     "timeMonth": 641,
-    "timeYear": 1216,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2024-10-01": 103,
       "2024-08-20": 23,
@@ -957,7 +957,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "down",
-    "uptime": "93.89%",
+    "uptime": "93.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -966,7 +966,7 @@
     "timeDay": 1291,
     "timeWeek": 1781,
     "timeMonth": 1829,
-    "timeYear": 2126,
+    "timeYear": 2128,
     "dailyMinutesDown": {
       "2024-09-26": 214,
       "2024-09-25": 176,
@@ -1083,7 +1083,7 @@
     "timeDay": 788,
     "timeWeek": 724,
     "timeMonth": 664,
-    "timeYear": 1204,
+    "timeYear": 1203,
     "dailyMinutesDown": {
       "2024-11-05": 7,
       "2024-10-24": 8,
