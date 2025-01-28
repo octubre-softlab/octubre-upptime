@@ -14,7 +14,7 @@
     "timeDay": 5726,
     "timeWeek": 3124,
     "timeMonth": 2193,
-    "timeYear": 1713,
+    "timeYear": 1712,
     "dailyMinutesDown": {
       "2025-01-27": 26,
       "2025-01-22": 26,
@@ -64,8 +64,7 @@
       "2024-03-12": 13,
       "2024-03-07": 8,
       "2024-02-22": 17,
-      "2024-02-16": 16,
-      "2024-01-29": 9
+      "2024-02-16": 16
     }
   },
   {
@@ -75,15 +74,15 @@
     "slug": "ahora-rrhh-octubre-org-ar",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.34%",
     "time": 2084,
-    "timeDay": 1083,
-    "timeWeek": 859,
+    "timeDay": 1016,
+    "timeWeek": 873,
     "timeMonth": 1173,
-    "timeYear": 2246,
+    "timeYear": 2247,
     "dailyMinutesDown": {
       "2025-01-26": 12,
       "2025-01-25": 13,
@@ -135,7 +134,7 @@
     "timeDay": 916,
     "timeWeek": 860,
     "timeMonth": 1111,
-    "timeYear": 1299,
+    "timeYear": 1297,
     "dailyMinutesDown": {
       "2025-01-25": 10,
       "2025-01-23": 15,
@@ -218,7 +217,7 @@
     "timeDay": 606,
     "timeWeek": 705,
     "timeMonth": 727,
-    "timeYear": 825,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2025-01-03": 12,
       "2024-12-18": 9,
@@ -273,12 +272,12 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.29%",
     "time": 743,
     "timeDay": 667,
-    "timeWeek": 724,
+    "timeWeek": 738,
     "timeMonth": 739,
     "timeYear": 733,
     "dailyMinutesDown": {
@@ -331,7 +330,7 @@
     "timeDay": 631,
     "timeWeek": 664,
     "timeMonth": 739,
-    "timeYear": 981,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2024-10-01": 187,
       "2024-09-10": 12,
@@ -363,7 +362,7 @@
     "timeDay": 747,
     "timeWeek": 745,
     "timeMonth": 741,
-    "timeYear": 1059,
+    "timeYear": 1060,
     "dailyMinutesDown": {
       "2024-12-04": 8,
       "2024-11-05": 9,
@@ -427,7 +426,7 @@
     "timeDay": 695,
     "timeWeek": 690,
     "timeMonth": 729,
-    "timeYear": 1120,
+    "timeYear": 1119,
     "dailyMinutesDown": {
       "2024-12-21": 3,
       "2024-12-15": 46,
@@ -498,7 +497,7 @@
     "timeDay": 4059,
     "timeWeek": 4298,
     "timeMonth": 4776,
-    "timeYear": 3554,
+    "timeYear": 3560,
     "dailyMinutesDown": {
       "2024-07-26": 15,
       "2024-07-25": 683,
@@ -515,8 +514,7 @@
       "2024-03-19": 160,
       "2024-03-18": 78,
       "2024-03-13": 539,
-      "2024-02-27": 8,
-      "2024-01-29": 194
+      "2024-02-27": 8
     }
   },
   {
@@ -534,7 +532,7 @@
     "timeDay": 10730,
     "timeWeek": 10821,
     "timeMonth": 10791,
-    "timeYear": 8555,
+    "timeYear": 8580,
     "dailyMinutesDown": {
       "2024-04-23": 741,
       "2024-04-22": 1440,
@@ -592,7 +590,7 @@
     "timeDay": 4299,
     "timeWeek": 4418,
     "timeMonth": 4675,
-    "timeYear": 3084,
+    "timeYear": 3092,
     "dailyMinutesDown": {
       "2024-03-27": 1217,
       "2024-03-26": 1440,
@@ -606,8 +604,7 @@
       "2024-03-18": 75,
       "2024-03-13": 475,
       "2024-02-27": 8,
-      "2024-02-20": 17,
-      "2024-01-29": 194
+      "2024-02-20": 17
     }
   },
   {
@@ -658,7 +655,7 @@
     "timeDay": 891,
     "timeWeek": 1254,
     "timeMonth": 1679,
-    "timeYear": 2123,
+    "timeYear": 2122,
     "dailyMinutesDown": {
       "2025-01-23": 20,
       "2025-01-22": 42,
@@ -741,7 +738,7 @@
     "timeDay": 10960,
     "timeWeek": 9728,
     "timeMonth": 9779,
-    "timeYear": 7481,
+    "timeYear": 7501,
     "dailyMinutesDown": {
       "2024-10-29": 10,
       "2024-10-21": 17,
@@ -764,7 +761,7 @@
     "timeDay": 636,
     "timeWeek": 665,
     "timeMonth": 672,
-    "timeYear": 1080,
+    "timeYear": 1079,
     "dailyMinutesDown": {
       "2024-12-16": 8,
       "2024-12-13": 86,
@@ -801,7 +798,7 @@
     "timeDay": 679,
     "timeWeek": 698,
     "timeMonth": 764,
-    "timeYear": 839,
+    "timeYear": 838,
     "dailyMinutesDown": {
       "2024-11-05": 7,
       "2024-10-24": 9,
@@ -830,7 +827,7 @@
     "timeDay": 794,
     "timeWeek": 806,
     "timeMonth": 844,
-    "timeYear": 893,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2024-08-20": 25,
       "2024-07-04": 81,
@@ -890,7 +887,7 @@
     "timeDay": 727,
     "timeWeek": 713,
     "timeMonth": 822,
-    "timeYear": 897,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2025-01-13": 11,
       "2024-12-20": 11,
@@ -916,7 +913,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "down",
-    "uptime": "94.80%",
+    "uptime": "94.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -925,7 +922,7 @@
     "timeDay": 1442,
     "timeWeek": 1618,
     "timeMonth": 1706,
-    "timeYear": 2187,
+    "timeYear": 2191,
     "dailyMinutesDown": {
       "2024-09-26": 214,
       "2024-09-25": 176,
@@ -973,7 +970,7 @@
     "timeDay": 496,
     "timeWeek": 587,
     "timeMonth": 596,
-    "timeYear": 1030,
+    "timeYear": 1026,
     "dailyMinutesDown": {
       "2024-12-16": 8,
       "2024-12-13": 85,
@@ -998,18 +995,19 @@
     "url": "http://union.umet.edu.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/union.umet.edu.ar.ico",
     "slug": "union-union-umet-edu-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.25%",
+    "uptimeYear": "98.24%",
     "time": 541,
     "timeDay": 442,
     "timeWeek": 612,
     "timeMonth": 655,
     "timeYear": 525,
     "dailyMinutesDown": {
+      "2025-01-28": 1,
       "2024-11-15": 25,
       "2024-10-21": 16,
       "2024-09-29": 17,
@@ -1040,7 +1038,7 @@
     "timeDay": 736,
     "timeWeek": 772,
     "timeMonth": 744,
-    "timeYear": 1072,
+    "timeYear": 1067,
     "dailyMinutesDown": {
       "2024-11-05": 7,
       "2024-10-24": 8,
