@@ -14,7 +14,7 @@
     "timeDay": 648,
     "timeWeek": 1964,
     "timeMonth": 2058,
-    "timeYear": 1754,
+    "timeYear": 1757,
     "dailyMinutesDown": {
       "2025-03-09": 25,
       "2025-02-15": 35,
@@ -636,18 +636,19 @@
     "url": "https://app.osperyhra.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.osperyhra.org.ar.ico",
     "slug": "osra-app-app-osperyhra-org-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "98.77%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "98.76%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "99.56%",
     "time": 2282,
-    "timeDay": 6814,
-    "timeWeek": 2691,
-    "timeMonth": 2675,
-    "timeYear": 2343,
+    "timeDay": 5253,
+    "timeWeek": 2559,
+    "timeMonth": 2637,
+    "timeYear": 2339,
     "dailyMinutesDown": {
+      "2025-03-12": 1,
       "2025-03-11": 43,
       "2025-03-07": 81,
       "2025-03-05": 8,
@@ -715,7 +716,7 @@
       "2024-09-04": 25,
       "2024-09-03": 60,
       "2024-09-02": 80,
-      "2024-08-28": 37
+      "2024-08-28": 31
     }
   },
   {
