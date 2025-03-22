@@ -4,18 +4,19 @@
     "url": "https://acceso.suterh.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/acceso.suterh.org.ar.ico",
     "slug": "acceso-molinetes-acceso-suterh-org-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.63%",
-    "time": 1691,
-    "timeDay": 732,
-    "timeWeek": 1978,
-    "timeMonth": 1487,
-    "timeYear": 1770,
+    "time": 1704,
+    "timeDay": 5705,
+    "timeWeek": 2848,
+    "timeMonth": 1784,
+    "timeYear": 1791,
     "dailyMinutesDown": {
+      "2025-03-22": 3,
       "2025-03-15": 9,
       "2025-03-09": 25,
       "2025-02-15": 35,
@@ -64,8 +65,7 @@
       "2024-03-30": 18,
       "2024-03-29": 8,
       "2024-03-25": 7,
-      "2024-03-23": 7,
-      "2024-03-22": 47
+      "2024-03-23": 7
     }
   },
   {
@@ -83,7 +83,7 @@
     "timeDay": 10646,
     "timeWeek": 10713,
     "timeMonth": 10979,
-    "timeYear": 2545,
+    "timeYear": 2547,
     "dailyMinutesDown": {
       "2025-02-13": 198,
       "2025-02-05": 7,
@@ -138,7 +138,7 @@
     "timeDay": 746,
     "timeWeek": 835,
     "timeMonth": 1112,
-    "timeYear": 1232,
+    "timeYear": 1229,
     "dailyMinutesDown": {
       "2025-02-25": 31,
       "2025-02-24": 381,
@@ -170,8 +170,7 @@
       "2024-07-04": 9,
       "2024-06-16": 21,
       "2024-03-29": 8,
-      "2024-03-28": 8,
-      "2024-03-22": 46
+      "2024-03-28": 8
     }
   },
   {
@@ -367,8 +366,7 @@
       "2024-07-15": 23,
       "2024-06-06": 165,
       "2024-04-02": 72,
-      "2024-03-31": 91,
-      "2024-03-22": 44
+      "2024-03-31": 91
     }
   },
   {
@@ -415,7 +413,7 @@
     "timeDay": 652,
     "timeWeek": 689,
     "timeMonth": 763,
-    "timeYear": 1002,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2024-12-21": 3,
       "2024-12-15": 46,
@@ -436,8 +434,7 @@
       "2024-08-12": 24,
       "2024-08-10": 22,
       "2024-07-05": 13,
-      "2024-07-04": 44,
-      "2024-03-22": 43
+      "2024-07-04": 44
     }
   },
   {
@@ -455,7 +452,7 @@
     "timeDay": 628,
     "timeWeek": 669,
     "timeMonth": 663,
-    "timeYear": 663,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2025-02-06": 9,
       "2025-01-17": 8,
@@ -480,12 +477,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.85%",
+    "uptimeYear": "98.05%",
     "time": 3624,
     "timeDay": 4378,
     "timeWeek": 5556,
     "timeMonth": 5704,
-    "timeYear": 4214,
+    "timeYear": 4226,
     "dailyMinutesDown": {
       "2024-07-26": 15,
       "2024-07-25": 683,
@@ -495,8 +492,7 @@
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
-      "2024-03-23": 1440,
-      "2024-03-22": 1440
+      "2024-03-23": 1440
     }
   },
   {
@@ -514,7 +510,7 @@
     "timeDay": 10810,
     "timeWeek": 10801,
     "timeMonth": 10821,
-    "timeYear": 10558,
+    "timeYear": 10590,
     "dailyMinutesDown": {
       "2024-04-23": 741,
       "2024-04-22": 1440,
@@ -558,19 +554,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.21%",
+    "uptimeYear": "98.41%",
     "time": 3136,
     "timeDay": 4658,
     "timeWeek": 5068,
     "timeMonth": 5038,
-    "timeYear": 3860,
+    "timeYear": 3871,
     "dailyMinutesDown": {
       "2024-03-27": 1217,
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
-      "2024-03-23": 1440,
-      "2024-03-22": 1440
+      "2024-03-23": 1440
     }
   },
   {
@@ -588,7 +583,7 @@
     "timeDay": 712,
     "timeWeek": 698,
     "timeMonth": 696,
-    "timeYear": 716,
+    "timeYear": 715,
     "dailyMinutesDown": {
       "2024-12-31": 73,
       "2024-11-15": 37,
@@ -611,15 +606,15 @@
     "slug": "osra-app-app-osperyhra-org-ar",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "94.47%",
+    "uptimeDay": "97.30%",
     "uptimeWeek": "98.55%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.55%",
     "time": 2300,
-    "timeDay": 9282,
+    "timeDay": 12125,
     "timeWeek": 4587,
     "timeMonth": 2999,
-    "timeYear": 2414,
+    "timeYear": 2418,
     "dailyMinutesDown": {
       "2025-03-21": 65,
       "2025-03-20": 15,
@@ -708,16 +703,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 6088,
+    "time": 7074,
     "timeDay": 9555,
     "timeWeek": 9986,
     "timeMonth": 9082,
-    "timeYear": 8506,
+    "timeYear": 8529,
     "dailyMinutesDown": {
       "2024-10-29": 10,
       "2024-10-21": 17,
-      "2024-09-29": 30,
-      "2024-03-22": 38
+      "2024-09-29": 30
     }
   },
   {
@@ -735,7 +729,7 @@
     "timeDay": 667,
     "timeWeek": 667,
     "timeMonth": 667,
-    "timeYear": 943,
+    "timeYear": 944,
     "dailyMinutesDown": {
       "2024-12-16": 8,
       "2024-12-13": 86,
@@ -752,8 +746,7 @@
       "2024-06-12": 9,
       "2024-05-31": 71,
       "2024-04-02": 82,
-      "2024-03-31": 109,
-      "2024-03-22": 38
+      "2024-03-31": 109
     }
   },
   {
@@ -780,8 +773,7 @@
       "2024-06-12": 8,
       "2024-06-06": 96,
       "2024-04-02": 53,
-      "2024-03-31": 88,
-      "2024-03-22": 36
+      "2024-03-31": 88
     }
   },
   {
@@ -820,7 +812,7 @@
     "timeDay": 1056,
     "timeWeek": 1111,
     "timeMonth": 1101,
-    "timeYear": 1088,
+    "timeYear": 1087,
     "dailyMinutesDown": {
       "2024-12-20": 11,
       "2024-12-18": 9,
@@ -854,7 +846,7 @@
     "timeDay": 678,
     "timeWeek": 681,
     "timeMonth": 699,
-    "timeYear": 784,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2025-01-13": 11,
       "2024-12-20": 11,
@@ -866,8 +858,7 @@
       "2024-06-13": 34,
       "2024-06-07": 12,
       "2024-03-30": 424,
-      "2024-03-29": 1314,
-      "2024-03-22": 42
+      "2024-03-29": 1314
     }
   },
   {
@@ -876,16 +867,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "down",
-    "uptime": "95.29%",
+    "uptime": "95.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.81%",
+    "uptimeYear": "98.01%",
     "time": 2033,
     "timeDay": 1548,
     "timeWeek": 1880,
     "timeMonth": 1678,
-    "timeYear": 2233,
+    "timeYear": 2237,
     "dailyMinutesDown": {
       "2024-09-26": 214,
       "2024-09-25": 176,
@@ -906,8 +897,7 @@
       "2024-03-26": 1440,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
-      "2024-03-23": 1440,
-      "2024-03-22": 1440
+      "2024-03-23": 1440
     }
   },
   {
@@ -925,7 +915,7 @@
     "timeDay": 621,
     "timeWeek": 590,
     "timeMonth": 611,
-    "timeYear": 910,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2024-12-16": 8,
       "2024-12-13": 85,
@@ -940,8 +930,7 @@
       "2024-06-12": 8,
       "2024-06-06": 118,
       "2024-04-02": 53,
-      "2024-03-31": 87,
-      "2024-03-22": 36
+      "2024-03-31": 87
     }
   },
   {
@@ -984,7 +973,7 @@
     "timeDay": 914,
     "timeWeek": 730,
     "timeMonth": 714,
-    "timeYear": 953,
+    "timeYear": 954,
     "dailyMinutesDown": {
       "2024-11-05": 7,
       "2024-10-24": 8,
@@ -994,8 +983,7 @@
       "2024-06-12": 8,
       "2024-06-06": 210,
       "2024-04-02": 70,
-      "2024-03-31": 86,
-      "2024-03-22": 34
+      "2024-03-31": 86
     }
   }
 ]
