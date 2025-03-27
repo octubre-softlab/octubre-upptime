@@ -14,7 +14,7 @@
     "timeDay": 1626,
     "timeWeek": 2112,
     "timeMonth": 1803,
-    "timeYear": 1740,
+    "timeYear": 1742,
     "dailyMinutesDown": {
       "2025-03-22": 26,
       "2025-03-15": 9,
@@ -81,7 +81,7 @@
     "timeDay": 10851,
     "timeWeek": 10727,
     "timeMonth": 10983,
-    "timeYear": 2865,
+    "timeYear": 2885,
     "dailyMinutesDown": {
       "2025-02-13": 198,
       "2025-02-05": 7,
@@ -128,15 +128,15 @@
     "slug": "cad-cad-fateryh-org-ar",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "98.03%",
+    "uptimeDay": "99.13%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.83%",
     "time": 1260,
-    "timeDay": 709,
+    "timeDay": 671,
     "timeWeek": 709,
     "timeMonth": 768,
-    "timeYear": 1217,
+    "timeYear": 1218,
     "dailyMinutesDown": {
       "2025-03-27": 13,
       "2025-03-26": 15,
@@ -216,7 +216,7 @@
     "timeDay": 636,
     "timeWeek": 684,
     "timeMonth": 689,
-    "timeYear": 820,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2025-01-03": 12,
       "2024-12-18": 9,
@@ -324,7 +324,7 @@
     "timeDay": 567,
     "timeWeek": 688,
     "timeMonth": 708,
-    "timeYear": 760,
+    "timeYear": 761,
     "dailyMinutesDown": {
       "2025-02-24": 9,
       "2024-10-01": 187,
@@ -351,7 +351,7 @@
     "timeDay": 587,
     "timeWeek": 727,
     "timeMonth": 703,
-    "timeYear": 942,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2025-02-17": 8,
       "2024-12-04": 8,
@@ -412,7 +412,7 @@
     "timeDay": 617,
     "timeWeek": 657,
     "timeMonth": 751,
-    "timeYear": 1002,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2024-12-21": 3,
       "2024-12-15": 46,
@@ -451,7 +451,7 @@
     "timeDay": 552,
     "timeWeek": 624,
     "timeMonth": 652,
-    "timeYear": 662,
+    "timeYear": 663,
     "dailyMinutesDown": {
       "2025-02-06": 9,
       "2025-01-17": 8,
@@ -476,12 +476,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.64%",
     "time": 3685,
     "timeDay": 4261,
     "timeWeek": 5558,
     "timeMonth": 5546,
-    "timeYear": 4298,
+    "timeYear": 4309,
     "dailyMinutesDown": {
       "2024-07-26": 15,
       "2024-07-25": 683,
@@ -504,7 +504,7 @@
     "timeDay": 10652,
     "timeWeek": 10784,
     "timeMonth": 10811,
-    "timeYear": 10785,
+    "timeYear": 10819,
     "dailyMinutesDown": {
       "2024-04-23": 741,
       "2024-04-22": 1440,
@@ -545,12 +545,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "100.00%",
     "time": 3190,
     "timeDay": 4521,
     "timeWeek": 4446,
     "timeMonth": 4726,
-    "timeYear": 3924,
+    "timeYear": 3935,
     "dailyMinutesDown": {}
   },
   {
@@ -568,7 +568,7 @@
     "timeDay": 595,
     "timeWeek": 671,
     "timeMonth": 685,
-    "timeYear": 713,
+    "timeYear": 712,
     "dailyMinutesDown": {
       "2024-12-31": 73,
       "2024-11-15": 37,
@@ -589,18 +589,19 @@
     "url": "https://app.osperyhra.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.osperyhra.org.ar.ico",
     "slug": "osra-app-app-osperyhra-org-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "97.61%",
-    "uptimeWeek": "98.76%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "98.89%",
     "uptimeMonth": "98.80%",
-    "uptimeYear": "99.55%",
-    "time": 2271,
-    "timeDay": 6326,
-    "timeWeek": 5279,
+    "uptimeYear": "99.56%",
+    "time": 2273,
+    "timeDay": 757,
+    "timeWeek": 5970,
     "timeMonth": 3108,
-    "timeYear": 2438,
+    "timeYear": 2442,
     "dailyMinutesDown": {
+      "2025-03-27": 1,
       "2025-03-26": 34,
       "2025-03-23": 11,
       "2025-03-21": 65,
@@ -673,8 +674,7 @@
       "2024-09-14": 10,
       "2024-09-13": 13,
       "2024-09-11": 12,
-      "2024-09-07": 18,
-      "2024-09-06": 35
+      "2024-09-07": 18
     }
   },
   {
@@ -692,7 +692,7 @@
     "timeDay": 9667,
     "timeWeek": 7795,
     "timeMonth": 8452,
-    "timeYear": 8608,
+    "timeYear": 8632,
     "dailyMinutesDown": {
       "2024-10-29": 10,
       "2024-10-21": 17,
@@ -776,7 +776,7 @@
     "timeDay": 662,
     "timeWeek": 808,
     "timeMonth": 911,
-    "timeYear": 848,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2024-08-20": 25,
       "2024-07-04": 81
@@ -797,7 +797,7 @@
     "timeDay": 912,
     "timeWeek": 1030,
     "timeMonth": 1078,
-    "timeYear": 1086,
+    "timeYear": 1087,
     "dailyMinutesDown": {
       "2024-12-20": 11,
       "2024-12-18": 9,
@@ -831,7 +831,7 @@
     "timeDay": 527,
     "timeWeek": 664,
     "timeMonth": 689,
-    "timeYear": 778,
+    "timeYear": 779,
     "dailyMinutesDown": {
       "2025-01-13": 11,
       "2024-12-20": 11,
@@ -856,12 +856,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.60%",
     "time": 2022,
     "timeDay": 1222,
     "timeWeek": 1680,
     "timeMonth": 1647,
-    "timeYear": 2232,
+    "timeYear": 2234,
     "dailyMinutesDown": {
       "2024-09-26": 214,
       "2024-09-25": 176,
@@ -895,7 +895,7 @@
     "timeDay": 575,
     "timeWeek": 591,
     "timeMonth": 603,
-    "timeYear": 909,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2024-12-16": 8,
       "2024-12-13": 85,
@@ -953,7 +953,7 @@
     "timeDay": 540,
     "timeWeek": 805,
     "timeMonth": 722,
-    "timeYear": 954,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2024-11-05": 7,
       "2024-10-24": 8,
