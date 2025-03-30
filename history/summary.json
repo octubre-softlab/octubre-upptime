@@ -14,7 +14,7 @@
     "timeDay": 1066,
     "timeWeek": 1007,
     "timeMonth": 1754,
-    "timeYear": 1755,
+    "timeYear": 1756,
     "dailyMinutesDown": {
       "2025-03-22": 26,
       "2025-03-15": 9,
@@ -79,7 +79,7 @@
     "timeDay": 10843,
     "timeWeek": 10771,
     "timeMonth": 10965,
-    "timeYear": 3097,
+    "timeYear": 3099,
     "dailyMinutesDown": {
       "2025-02-13": 198,
       "2025-02-05": 7,
@@ -124,19 +124,19 @@
     "url": "https://cad.fateryh.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/cad.fateryh.org.ar.ico",
     "slug": "cad-cad-fateryh-org-ar",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.83%",
-    "time": 1240,
-    "timeDay": 793,
-    "timeWeek": 737,
-    "timeMonth": 767,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.82%",
+    "time": 1238,
+    "timeDay": 764,
+    "timeWeek": 733,
+    "timeMonth": 765,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2025-03-30": 14,
+      "2025-03-30": 26,
       "2025-03-29": 20,
       "2025-03-27": 13,
       "2025-03-26": 15,
@@ -213,7 +213,7 @@
     "timeDay": 682,
     "timeWeek": 696,
     "timeMonth": 687,
-    "timeYear": 821,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2025-01-03": 12,
       "2024-12-18": 9,
@@ -347,7 +347,7 @@
     "timeDay": 928,
     "timeWeek": 739,
     "timeMonth": 707,
-    "timeYear": 944,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2025-02-17": 8,
       "2024-12-04": 8,
@@ -408,7 +408,7 @@
     "timeDay": 804,
     "timeWeek": 698,
     "timeMonth": 748,
-    "timeYear": 1004,
+    "timeYear": 1005,
     "dailyMinutesDown": {
       "2024-12-21": 3,
       "2024-12-15": 46,
@@ -477,7 +477,7 @@
     "timeDay": 4522,
     "timeWeek": 6424,
     "timeMonth": 5611,
-    "timeYear": 4347,
+    "timeYear": 4349,
     "dailyMinutesDown": {
       "2024-07-26": 15,
       "2024-07-25": 683,
@@ -500,7 +500,7 @@
     "timeDay": 10871,
     "timeWeek": 10781,
     "timeMonth": 10817,
-    "timeYear": 10820,
+    "timeYear": 10821,
     "dailyMinutesDown": {
       "2024-04-23": 741,
       "2024-04-22": 1440,
@@ -543,7 +543,7 @@
     "timeDay": 4319,
     "timeWeek": 4431,
     "timeMonth": 4700,
-    "timeYear": 3959,
+    "timeYear": 3970,
     "dailyMinutesDown": {}
   },
   {
@@ -592,7 +592,7 @@
     "timeDay": 2275,
     "timeWeek": 2855,
     "timeMonth": 2934,
-    "timeYear": 2445,
+    "timeYear": 2449,
     "dailyMinutesDown": {
       "2025-03-30": 9,
       "2025-03-28": 170,
@@ -686,7 +686,7 @@
     "timeDay": 2633,
     "timeWeek": 7604,
     "timeMonth": 8330,
-    "timeYear": 8667,
+    "timeYear": 8692,
     "dailyMinutesDown": {
       "2024-10-29": 10,
       "2024-10-21": 17,
@@ -743,7 +743,7 @@
     "timeDay": 796,
     "timeWeek": 697,
     "timeMonth": 691,
-    "timeYear": 767,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2024-11-05": 7,
       "2024-10-24": 9,
@@ -853,7 +853,7 @@
     "timeDay": 1004,
     "timeWeek": 1490,
     "timeMonth": 1597,
-    "timeYear": 2234,
+    "timeYear": 2237,
     "dailyMinutesDown": {
       "2024-09-26": 214,
       "2024-09-25": 176,
@@ -887,7 +887,7 @@
     "timeDay": 624,
     "timeWeek": 600,
     "timeMonth": 602,
-    "timeYear": 910,
+    "timeYear": 911,
     "dailyMinutesDown": {
       "2024-12-16": 8,
       "2024-12-13": 85,
@@ -920,7 +920,7 @@
     "timeDay": 542,
     "timeWeek": 455,
     "timeMonth": 468,
-    "timeYear": 511,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2025-01-28": 21,
       "2024-11-15": 25,
@@ -945,7 +945,7 @@
     "timeDay": 935,
     "timeWeek": 854,
     "timeMonth": 726,
-    "timeYear": 954,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2024-11-05": 7,
       "2024-10-24": 8,
