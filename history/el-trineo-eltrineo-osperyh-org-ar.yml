@@ -1,7 +1,7 @@
 url: https://eltrineo.osperyh.org.ar/api/appstatus
-status: down
-code: 500
-responseTime: 152
-lastUpdated: 2025-04-29T00:38:18.894Z
+status: up
+code: 200
+responseTime: 586
+lastUpdated: 2025-04-29T01:05:49.970Z
 startTime: 2022-04-21T17:50:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
