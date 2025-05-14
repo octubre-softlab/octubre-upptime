@@ -1,7 +1,7 @@
 url: https://app.edificarseguros.com.ar/api/appstatus
-status: down
-code: 502
-responseTime: 803
-lastUpdated: 2025-05-14T15:39:49.243Z
+status: up
+code: 200
+responseTime: 630
+lastUpdated: 2025-05-14T15:48:02.670Z
 startTime: 2022-04-12T15:19:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
