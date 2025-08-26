@@ -1,7 +1,7 @@
 url: https://miobra.osperyh.org.ar/api/health
-status: down
-code: 503
-responseTime: 8612
-lastUpdated: 2025-05-31T01:28:47.841Z
+status: up
+code: 200
+responseTime: 1512
+lastUpdated: 2025-08-26T14:36:41.512Z
 startTime: 2022-04-12T15:19:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
