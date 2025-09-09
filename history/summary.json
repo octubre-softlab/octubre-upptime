@@ -482,18 +482,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.osperyh.org.ar.ico",
     "slug": "osperyh-app-app-osperyh-org-ar",
     "status": "down",
-    "uptime": "8.50%",
-    "uptimeDay": "8.50%",
-    "uptimeWeek": "8.50%",
-    "uptimeMonth": "8.50%",
-    "uptimeYear": "8.50%",
+    "uptime": "5.08%",
+    "uptimeDay": "5.08%",
+    "uptimeWeek": "5.08%",
+    "uptimeMonth": "5.08%",
+    "uptimeYear": "5.08%",
     "time": 4151,
     "timeDay": 4151,
     "timeWeek": 4151,
     "timeMonth": 4151,
     "timeYear": 4151,
     "dailyMinutesDown": {
-      "2025-09-09": 2
+      "2025-09-09": 4
     }
   },
   {
