@@ -32,6 +32,8 @@ sites:
     url: https://octubre.mepadip.com.ar/api/appstatus
   - name: Mi Obra App (miobra.osperyh.org.ar)
     url: https://miobra.osperyh.org.ar/api/health
+  - name: OSPERYH App (app.osperyh.org.ar)
+    url: https://app.osperyh.org.ar/api/health
   - name: Mi Web App (miweb.umet.edu.ar)
     url: https://miweb.umet.edu.ar/api/health
   - name: OctubreOSPERYH (octubre.osperyh.org.ar)
