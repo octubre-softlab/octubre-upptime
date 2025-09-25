@@ -6,15 +6,15 @@
     "slug": "acceso-molinetes-acceso-suterh-org-ar",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "97.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 1666,
-    "timeDay": 1050,
+    "timeDay": 863,
     "timeWeek": 1023,
     "timeMonth": 1426,
-    "timeYear": 1550,
+    "timeYear": 1526,
     "dailyMinutesDown": {
       "2025-09-23": 32,
       "2025-09-19": 8,
@@ -56,8 +56,7 @@
       "2024-10-03": 27,
       "2024-10-01": 41,
       "2024-09-30": 22,
-      "2024-09-26": 11,
-      "2024-09-25": 41
+      "2024-09-26": 11
     }
   },
   {
@@ -75,7 +74,7 @@
     "timeDay": 10769,
     "timeWeek": 10855,
     "timeMonth": 10880,
-    "timeYear": 4808,
+    "timeYear": 4814,
     "dailyMinutesDown": {
       "2025-04-07": 91,
       "2025-02-13": 198,
@@ -122,7 +121,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cad.fateryh.org.ar.ico",
     "slug": "cad-cad-fateryh-org-ar",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -131,7 +130,7 @@
     "timeDay": 817,
     "timeWeek": 1679,
     "timeMonth": 1368,
-    "timeYear": 1342,
+    "timeYear": 1343,
     "dailyMinutesDown": {
       "2025-05-26": 21,
       "2025-05-19": 923,
@@ -189,7 +188,7 @@
     "timeDay": 719,
     "timeWeek": 866,
     "timeMonth": 857,
-    "timeYear": 774,
+    "timeYear": 775,
     "dailyMinutesDown": {
       "2025-05-22": 66,
       "2025-05-02": 21,
@@ -214,7 +213,7 @@
     "timeDay": 1826,
     "timeWeek": 1230,
     "timeMonth": 999,
-    "timeYear": 820,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2025-09-24": 9,
       "2025-09-10": 8,
@@ -269,7 +268,7 @@
     "timeDay": 814,
     "timeWeek": 845,
     "timeMonth": 892,
-    "timeYear": 955,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2025-09-16": 40,
       "2025-09-15": 35,
@@ -317,7 +316,7 @@
     "timeDay": 614,
     "timeWeek": 745,
     "timeMonth": 731,
-    "timeYear": 741,
+    "timeYear": 742,
     "dailyMinutesDown": {
       "2025-05-22": 64,
       "2025-02-24": 9,
@@ -339,7 +338,7 @@
     "timeDay": 731,
     "timeWeek": 860,
     "timeMonth": 904,
-    "timeYear": 868,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2025-09-12": 11,
       "2025-05-22": 64,
@@ -370,7 +369,7 @@
     "timeDay": 818,
     "timeWeek": 892,
     "timeMonth": 902,
-    "timeYear": 941,
+    "timeYear": 942,
     "dailyMinutesDown": {
       "2025-09-12": 11,
       "2025-05-30": 384,
@@ -400,7 +399,7 @@
     "timeDay": 733,
     "timeWeek": 878,
     "timeMonth": 857,
-    "timeYear": 1240,
+    "timeYear": 1242,
     "dailyMinutesDown": {
       "2025-05-07": 12,
       "2025-04-29": 102,
@@ -469,7 +468,7 @@
     "timeDay": 1270,
     "timeWeek": 1504,
     "timeMonth": 1491,
-    "timeYear": 4765,
+    "timeYear": 4767,
     "dailyMinutesDown": {}
   },
   {
@@ -527,7 +526,7 @@
     "timeDay": 4347,
     "timeWeek": 5160,
     "timeMonth": 5730,
-    "timeYear": 4909,
+    "timeYear": 4911,
     "dailyMinutesDown": {}
   },
   {
@@ -545,7 +544,7 @@
     "timeDay": 731,
     "timeWeek": 856,
     "timeMonth": 899,
-    "timeYear": 777,
+    "timeYear": 778,
     "dailyMinutesDown": {
       "2025-05-30": 11,
       "2025-05-22": 61,
@@ -558,8 +557,7 @@
       "2024-10-29": 13,
       "2024-10-21": 26,
       "2024-09-30": 89,
-      "2024-09-29": 1118,
-      "2024-09-25": 9
+      "2024-09-29": 1118
     }
   },
   {
@@ -577,7 +575,7 @@
     "timeDay": 1572,
     "timeWeek": 1033,
     "timeMonth": 1977,
-    "timeYear": 2651,
+    "timeYear": 2653,
     "dailyMinutesDown": {
       "2025-09-15": 13,
       "2025-09-08": 7,
@@ -674,7 +672,7 @@
     "timeDay": 8287,
     "timeWeek": 6862,
     "timeMonth": 6911,
-    "timeYear": 8255,
+    "timeYear": 8254,
     "dailyMinutesDown": {
       "2025-04-29": 100,
       "2025-04-06": 1036,
@@ -692,12 +690,12 @@
     "status": "up",
     "uptime": "99.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "99.58%",
     "time": 737,
     "timeDay": 609,
-    "timeWeek": 691,
+    "timeWeek": 663,
     "timeMonth": 666,
     "timeYear": 753,
     "dailyMinutesDown": {
@@ -769,7 +767,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/intranet.seracarh.org.ar.ico",
     "slug": "seracarh-intranet-seracarh-org-ar",
     "status": "up",
-    "uptime": "99.21%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -778,7 +776,7 @@
     "timeDay": 1090,
     "timeWeek": 1262,
     "timeMonth": 1246,
-    "timeYear": 1183,
+    "timeYear": 1184,
     "dailyMinutesDown": {
       "2025-05-22": 86,
       "2024-12-20": 11,
@@ -820,7 +818,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "down",
-    "uptime": "96.47%",
+    "uptime": "96.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -829,10 +827,9 @@
     "timeDay": 2089,
     "timeWeek": 2856,
     "timeMonth": 2144,
-    "timeYear": 1747,
+    "timeYear": 1748,
     "dailyMinutesDown": {
-      "2024-09-26": 214,
-      "2024-09-25": 176
+      "2024-09-26": 214
     }
   },
   {
@@ -843,14 +840,14 @@
     "status": "up",
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.02%",
+    "uptimeWeek": "98.22%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "99.55%",
     "time": 782,
     "timeDay": 554,
-    "timeWeek": 608,
+    "timeWeek": 622,
     "timeMonth": 744,
-    "timeYear": 789,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2025-09-20": 179,
       "2025-09-17": 400,
@@ -873,12 +870,12 @@
     "slug": "union-union-umet-edu-ar",
     "status": "up",
     "uptime": "99.14%",
-    "uptimeDay": "99.36%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.87%",
     "time": 509,
-    "timeDay": 484,
+    "timeDay": 455,
     "timeWeek": 456,
     "timeMonth": 548,
     "timeYear": 517,
@@ -907,7 +904,7 @@
     "timeDay": 753,
     "timeWeek": 955,
     "timeMonth": 870,
-    "timeYear": 863,
+    "timeYear": 864,
     "dailyMinutesDown": {
       "2025-09-13": 8,
       "2025-05-22": 94,
