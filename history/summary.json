@@ -449,18 +449,20 @@
     "url": "https://miobra.osperyh.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/miobra.osperyh.org.ar.ico",
     "slug": "mi-obra-app-miobra-osperyh-org-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 4263,
+    "time": 4271,
     "timeDay": 1309,
     "timeWeek": 1467,
     "timeMonth": 1512,
     "timeYear": 4480,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-17": 2
+    }
   },
   {
     "name": "OSPERYH App (app.osperyh.org.ar)",
