@@ -1,7 +1,7 @@
 url: https://acceso.suterh.org.ar/api/health
-status: down
-code: 503
-responseTime: 10857
-lastUpdated: 2025-11-01T14:52:21.134Z
+status: up
+code: 200
+responseTime: 879
+lastUpdated: 2025-11-01T15:02:31.365Z
 startTime: 2022-08-22T15:39:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
