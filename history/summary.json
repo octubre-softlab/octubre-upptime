@@ -550,18 +550,19 @@
     "url": "https://app.osperyhra.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.osperyhra.org.ar.ico",
     "slug": "osra-app-app-osperyhra-org-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "98.49%",
-    "uptimeYear": "99.34%",
-    "time": 2909,
-    "timeDay": 1024,
-    "timeWeek": 1647,
-    "timeMonth": 5268,
-    "timeYear": 2934,
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "99.35%",
+    "time": 2905,
+    "timeDay": 1036,
+    "timeWeek": 1593,
+    "timeMonth": 5184,
+    "timeYear": 2930,
     "dailyMinutesDown": {
+      "2025-11-03": 2,
       "2025-11-01": 87,
       "2025-10-30": 13,
       "2025-10-29": 115,
@@ -634,7 +635,7 @@
       "2024-12-20": 22,
       "2024-12-18": 46,
       "2024-12-17": 5,
-      "2024-12-11": 76
+      "2024-12-11": 20
     }
   },
   {
