@@ -14,7 +14,7 @@
     "timeDay": 1051,
     "timeWeek": 5220,
     "timeMonth": 4112,
-    "timeYear": 2096,
+    "timeYear": 2073,
     "dailyMinutesDown": {
       "2025-11-07": 3,
       "2025-11-05": 10,
@@ -56,8 +56,7 @@
       "2024-12-19": 15,
       "2024-12-11": 7,
       "2024-12-09": 12,
-      "2024-11-11": 36,
-      "2024-11-09": 28
+      "2024-11-11": 36
     }
   },
   {
@@ -198,7 +197,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/eltrineo.osperyh.org.ar.ico",
     "slug": "el-trineo-eltrineo-osperyh-org-ar",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -555,12 +554,12 @@
     "uptime": "99.82%",
     "uptimeDay": "99.14%",
     "uptimeWeek": "98.95%",
-    "uptimeMonth": "98.27%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "99.37%",
     "time": 2767,
     "timeDay": 1576,
     "timeWeek": 1649,
-    "timeMonth": 4462,
+    "timeMonth": 4453,
     "timeYear": 2875,
     "dailyMinutesDown": {
       "2025-11-08": 12,
