@@ -1,7 +1,7 @@
 url: https://octubre.osperyhra.org.ar/api/appstatus
-status: down
-code: 521
-responseTime: 386
-lastUpdated: 2025-11-10T03:19:07.257Z
+status: up
+code: 200
+responseTime: 1035
+lastUpdated: 2025-11-10T03:42:20.251Z
 startTime: 2022-04-12T15:18:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
