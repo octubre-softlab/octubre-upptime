@@ -1,7 +1,7 @@
 url: https://sentry.octubre.org.ar/_health/
-status: down
-code: 500
-responseTime: 134
-lastUpdated: 2025-11-18T11:35:41.681Z
+status: up
+code: 200
+responseTime: 700
+lastUpdated: 2025-11-18T11:53:45.950Z
 startTime: 2022-04-22T15:40:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
