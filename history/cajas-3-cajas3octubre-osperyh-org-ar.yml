@@ -1,7 +1,7 @@
 url: https://cajas3octubre.osperyh.org.ar/api/appstatus
-status: down
-code: 500
-responseTime: 134
-lastUpdated: 2025-11-18T12:58:12.080Z
+status: up
+code: 200
+responseTime: 938
+lastUpdated: 2025-11-18T14:41:55.526Z
 startTime: 2023-10-24T16:08:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
