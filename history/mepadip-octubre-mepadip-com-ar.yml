@@ -1,7 +1,7 @@
 url: https://octubre.mepadip.com.ar/api/appstatus
-status: down
-code: 500
-responseTime: 133
-lastUpdated: 2025-11-18T11:35:12.702Z
+status: up
+code: 200
+responseTime: 761
+lastUpdated: 2025-11-18T11:52:36.833Z
 startTime: 2022-04-12T15:18:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
