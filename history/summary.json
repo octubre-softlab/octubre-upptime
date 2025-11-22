@@ -802,19 +802,19 @@
     "url": "https://octubre.suterh.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
-    "status": "down",
-    "uptime": "96.73%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2321,
-    "timeDay": 7556,
-    "timeWeek": 4040,
-    "timeMonth": 3172,
-    "timeYear": 1963,
+    "status": "up",
+    "uptime": "96.72%",
+    "uptimeDay": "94.36%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.98%",
+    "time": 2322,
+    "timeDay": 6385,
+    "timeWeek": 3845,
+    "timeMonth": 3131,
+    "timeYear": 1962,
     "dailyMinutesDown": {
-      "2025-11-22": 2
+      "2025-11-22": 81
     }
   },
   {
