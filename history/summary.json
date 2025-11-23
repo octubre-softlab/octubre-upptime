@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/acceso.suterh.org.ar.ico",
     "slug": "acceso-molinetes-acceso-suterh-org-ar",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "97.95%",
@@ -14,7 +14,7 @@
     "timeDay": 903,
     "timeWeek": 2086,
     "timeMonth": 3926,
-    "timeYear": 2075,
+    "timeYear": 2076,
     "dailyMinutesDown": {
       "2025-11-18": 84,
       "2025-11-10": 24,
@@ -75,7 +75,7 @@
     "timeDay": 10741,
     "timeWeek": 10865,
     "timeMonth": 10856,
-    "timeYear": 6537,
+    "timeYear": 6578,
     "dailyMinutesDown": {
       "2025-04-07": 91,
       "2025-02-13": 198,
@@ -117,14 +117,14 @@
     "status": "up",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.85%",
+    "uptimeWeek": "98.76%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.10%",
     "time": 1395,
     "timeDay": 930,
-    "timeWeek": 3413,
+    "timeWeek": 3546,
     "timeMonth": 2445,
-    "timeYear": 1382,
+    "timeYear": 1384,
     "dailyMinutesDown": {
       "2025-11-20": 21,
       "2025-11-18": 104,
@@ -178,7 +178,7 @@
     "timeDay": 736,
     "timeWeek": 2058,
     "timeMonth": 1346,
-    "timeYear": 892,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2025-11-18": 121,
       "2025-11-10": 479,
@@ -203,7 +203,7 @@
     "timeDay": 787,
     "timeWeek": 1993,
     "timeMonth": 1457,
-    "timeYear": 932,
+    "timeYear": 933,
     "dailyMinutesDown": {
       "2025-11-20": 19,
       "2025-11-18": 85,
@@ -258,7 +258,7 @@
     "timeDay": 756,
     "timeWeek": 596,
     "timeMonth": 1314,
-    "timeYear": 1027,
+    "timeYear": 1028,
     "dailyMinutesDown": {
       "2025-11-18": 121,
       "2025-11-10": 43,
@@ -321,11 +321,11 @@
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.79%",
-    "time": 996,
+    "time": 916,
     "timeDay": 781,
     "timeWeek": 1471,
     "timeMonth": 1408,
-    "timeYear": 987,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2025-11-18": 104,
       "2025-11-10": 23,
@@ -357,7 +357,7 @@
     "timeDay": 754,
     "timeWeek": 668,
     "timeMonth": 993,
-    "timeYear": 998,
+    "timeYear": 1000,
     "dailyMinutesDown": {
       "2025-11-18": 85,
       "2025-10-03": 10,
@@ -386,7 +386,7 @@
     "timeDay": 730,
     "timeWeek": 854,
     "timeMonth": 931,
-    "timeYear": 1087,
+    "timeYear": 1089,
     "dailyMinutesDown": {
       "2025-11-18": 148,
       "2025-10-07": 29,
@@ -420,7 +420,7 @@
     "timeDay": 939,
     "timeWeek": 690,
     "timeMonth": 1182,
-    "timeYear": 814,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2025-11-18": 121,
       "2025-11-04": 8,
@@ -450,7 +450,7 @@
     "timeDay": 1193,
     "timeWeek": 1101,
     "timeMonth": 1445,
-    "timeYear": 4228,
+    "timeYear": 4227,
     "dailyMinutesDown": {
       "2025-11-18": 121,
       "2025-11-10": 23,
@@ -496,7 +496,7 @@
     "timeDay": 10789,
     "timeWeek": 10896,
     "timeMonth": 11115,
-    "timeYear": 10855,
+    "timeYear": 10856,
     "dailyMinutesDown": {
       "2025-09-16": 291
     }
@@ -516,7 +516,7 @@
     "timeDay": 4295,
     "timeWeek": 4603,
     "timeMonth": 5008,
-    "timeYear": 4952,
+    "timeYear": 4954,
     "dailyMinutesDown": {}
   },
   {
@@ -534,7 +534,7 @@
     "timeDay": 726,
     "timeWeek": 704,
     "timeMonth": 1122,
-    "timeYear": 1351,
+    "timeYear": 1354,
     "dailyMinutesDown": {
       "2025-11-18": 148,
       "2025-11-10": 23,
@@ -566,7 +566,7 @@
     "timeDay": 779,
     "timeWeek": 1763,
     "timeMonth": 2038,
-    "timeYear": 2883,
+    "timeYear": 2887,
     "dailyMinutesDown": {
       "2025-11-19": 17,
       "2025-11-18": 116,
@@ -657,7 +657,7 @@
     "timeDay": 6976,
     "timeWeek": 4223,
     "timeMonth": 5306,
-    "timeYear": 7441,
+    "timeYear": 7435,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2025-11-10": 23,
@@ -712,7 +712,7 @@
     "timeDay": 717,
     "timeWeek": 671,
     "timeMonth": 811,
-    "timeYear": 747,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2025-11-10": 477,
@@ -760,7 +760,7 @@
     "timeDay": 1101,
     "timeWeek": 1069,
     "timeMonth": 1448,
-    "timeYear": 1256,
+    "timeYear": 1257,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2025-11-03": 13,
@@ -786,7 +786,7 @@
     "timeDay": 756,
     "timeWeek": 716,
     "timeMonth": 835,
-    "timeYear": 887,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2025-10-24": 13,
@@ -803,13 +803,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "up",
-    "uptime": "96.72%",
+    "uptime": "96.73%",
     "uptimeDay": "94.36%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 2322,
-    "timeDay": 6385,
+    "timeDay": 6360,
     "timeWeek": 3845,
     "timeMonth": 3131,
     "timeYear": 1962,
@@ -832,7 +832,7 @@
     "timeDay": 541,
     "timeWeek": 613,
     "timeMonth": 639,
-    "timeYear": 740,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2025-11-10": 477,
       "2025-09-20": 179,
@@ -860,7 +860,7 @@
     "timeDay": 444,
     "timeWeek": 497,
     "timeMonth": 516,
-    "timeYear": 530,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2025-11-10": 23,
       "2025-09-30": 9,
@@ -885,7 +885,7 @@
     "timeDay": 673,
     "timeWeek": 932,
     "timeMonth": 985,
-    "timeYear": 920,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2025-11-18": 178,
       "2025-11-10": 23,
