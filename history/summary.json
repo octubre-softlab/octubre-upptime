@@ -14,7 +14,7 @@
     "timeDay": 892,
     "timeWeek": 2991,
     "timeMonth": 3923,
-    "timeYear": 2073,
+    "timeYear": 2075,
     "dailyMinutesDown": {
       "2025-11-18": 84,
       "2025-11-10": 24,
@@ -75,7 +75,7 @@
     "timeDay": 10837,
     "timeWeek": 10950,
     "timeMonth": 10884,
-    "timeYear": 6721,
+    "timeYear": 6736,
     "dailyMinutesDown": {
       "2025-04-07": 91,
       "2025-02-13": 198,
@@ -123,7 +123,7 @@
     "timeDay": 933,
     "timeWeek": 4423,
     "timeMonth": 2393,
-    "timeYear": 1385,
+    "timeYear": 1387,
     "dailyMinutesDown": {
       "2025-11-20": 21,
       "2025-11-18": 104,
@@ -176,7 +176,7 @@
     "timeDay": 1014,
     "timeWeek": 3469,
     "timeMonth": 1342,
-    "timeYear": 894,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2025-11-18": 121,
       "2025-11-10": 479,
@@ -201,7 +201,7 @@
     "timeDay": 910,
     "timeWeek": 2951,
     "timeMonth": 1451,
-    "timeYear": 933,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2025-11-20": 19,
       "2025-11-18": 85,
@@ -256,7 +256,7 @@
     "timeDay": 9684,
     "timeWeek": 7147,
     "timeMonth": 3516,
-    "timeYear": 1393,
+    "timeYear": 1395,
     "dailyMinutesDown": {
       "2025-11-25": 42,
       "2025-11-18": 121,
@@ -320,11 +320,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.79%",
-    "time": 996,
+    "time": 917,
     "timeDay": 883,
     "timeWeek": 824,
     "timeMonth": 1402,
-    "timeYear": 988,
+    "timeYear": 989,
     "dailyMinutesDown": {
       "2025-11-18": 104,
       "2025-11-10": 23,
@@ -356,7 +356,7 @@
     "timeDay": 9279,
     "timeWeek": 5905,
     "timeMonth": 2576,
-    "timeYear": 1245,
+    "timeYear": 1247,
     "dailyMinutesDown": {
       "2025-11-25": 18,
       "2025-11-18": 85,
@@ -386,7 +386,7 @@
     "timeDay": 959,
     "timeWeek": 1430,
     "timeMonth": 1052,
-    "timeYear": 1093,
+    "timeYear": 1095,
     "dailyMinutesDown": {
       "2025-11-18": 148,
       "2025-10-07": 29,
@@ -411,17 +411,17 @@
     "slug": "mepadip-octubre-mepadip-com-ar",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.88%",
     "time": 1026,
     "timeDay": 9694,
     "timeWeek": 7172,
     "timeMonth": 3503,
-    "timeYear": 1253,
+    "timeYear": 1255,
     "dailyMinutesDown": {
-      "2025-11-25": 24,
+      "2025-11-25": 18,
       "2025-11-18": 121,
       "2025-11-04": 8,
       "2025-10-28": 13,
@@ -516,7 +516,7 @@
     "timeDay": 4713,
     "timeWeek": 4596,
     "timeMonth": 4854,
-    "timeYear": 4955,
+    "timeYear": 4957,
     "dailyMinutesDown": {}
   },
   {
@@ -534,7 +534,7 @@
     "timeDay": 838,
     "timeWeek": 792,
     "timeMonth": 1113,
-    "timeYear": 1352,
+    "timeYear": 1355,
     "dailyMinutesDown": {
       "2025-11-18": 148,
       "2025-11-10": 23,
@@ -566,7 +566,7 @@
     "timeDay": 3580,
     "timeWeek": 2169,
     "timeMonth": 2032,
-    "timeYear": 2851,
+    "timeYear": 2856,
     "dailyMinutesDown": {
       "2025-11-19": 17,
       "2025-11-18": 116,
@@ -657,7 +657,7 @@
     "timeDay": 7070,
     "timeWeek": 5104,
     "timeMonth": 5067,
-    "timeYear": 7394,
+    "timeYear": 7384,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2025-11-10": 23,
@@ -737,7 +737,7 @@
     "timeDay": 9679,
     "timeWeek": 7140,
     "timeMonth": 3226,
-    "timeYear": 1301,
+    "timeYear": 1303,
     "dailyMinutesDown": {
       "2025-11-25": 22,
       "2025-11-18": 137,
@@ -761,7 +761,7 @@
     "timeDay": 1299,
     "timeWeek": 1198,
     "timeMonth": 1437,
-    "timeYear": 1257,
+    "timeYear": 1258,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2025-11-03": 13,
@@ -787,7 +787,7 @@
     "timeDay": 830,
     "timeWeek": 819,
     "timeMonth": 826,
-    "timeYear": 889,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2025-10-24": 13,
@@ -813,7 +813,7 @@
     "timeDay": 9718,
     "timeWeek": 7055,
     "timeMonth": 4894,
-    "timeYear": 2312,
+    "timeYear": 2314,
     "dailyMinutesDown": {
       "2025-11-25": 17,
       "2025-11-23": 65,
@@ -835,7 +835,7 @@
     "timeDay": 585,
     "timeWeek": 582,
     "timeMonth": 635,
-    "timeYear": 739,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2025-11-10": 477,
       "2025-09-20": 179,
@@ -863,7 +863,7 @@
     "timeDay": 433,
     "timeWeek": 451,
     "timeMonth": 514,
-    "timeYear": 530,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2025-11-10": 23,
       "2025-09-30": 9,
