@@ -1,7 +1,7 @@
 url: https://issa.edificarseguros.com.ar/api/appstatus
-status: down
-code: 522
-responseTime: 19457
-lastUpdated: 2025-11-26T19:18:08.296Z
+status: up
+code: 200
+responseTime: 1074
+lastUpdated: 2025-11-26T19:25:35.041Z
 startTime: 2022-04-12T15:18:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
