@@ -14,7 +14,7 @@
     "timeDay": 1000,
     "timeWeek": 2998,
     "timeMonth": 3924,
-    "timeYear": 2072,
+    "timeYear": 2076,
     "dailyMinutesDown": {
       "2025-11-18": 84,
       "2025-11-10": 24,
@@ -66,7 +66,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/rrhh.octubre.org.ar.ico",
     "slug": "ahora-rrhh-octubre-org-ar",
     "status": "down",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -75,7 +75,7 @@
     "timeDay": 10885,
     "timeWeek": 10972,
     "timeMonth": 10883,
-    "timeYear": 6746,
+    "timeYear": 6760,
     "dailyMinutesDown": {
       "2025-04-07": 91,
       "2025-02-13": 198,
@@ -123,7 +123,7 @@
     "timeDay": 1029,
     "timeWeek": 4108,
     "timeMonth": 2306,
-    "timeYear": 1386,
+    "timeYear": 1388,
     "dailyMinutesDown": {
       "2025-11-20": 21,
       "2025-11-18": 104,
@@ -176,7 +176,7 @@
     "timeDay": 1229,
     "timeWeek": 3104,
     "timeMonth": 1346,
-    "timeYear": 899,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2025-11-18": 121,
       "2025-11-10": 479,
@@ -201,7 +201,7 @@
     "timeDay": 1007,
     "timeWeek": 2976,
     "timeMonth": 1454,
-    "timeYear": 934,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2025-11-20": 19,
       "2025-11-18": 85,
@@ -256,7 +256,7 @@
     "timeDay": 9801,
     "timeWeek": 8604,
     "timeMonth": 5143,
-    "timeYear": 1822,
+    "timeYear": 1825,
     "dailyMinutesDown": {
       "2025-11-26": 38,
       "2025-11-25": 42,
@@ -321,11 +321,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.79%",
-    "time": 997,
+    "time": 919,
     "timeDay": 1043,
     "timeWeek": 867,
     "timeMonth": 1406,
-    "timeYear": 990,
+    "timeYear": 991,
     "dailyMinutesDown": {
       "2025-11-18": 104,
       "2025-11-10": 23,
@@ -357,7 +357,7 @@
     "timeDay": 9944,
     "timeWeek": 8749,
     "timeMonth": 5447,
-    "timeYear": 2007,
+    "timeYear": 2011,
     "dailyMinutesDown": {
       "2025-11-27": 40,
       "2025-11-26": 83,
@@ -389,7 +389,7 @@
     "timeDay": 869,
     "timeWeek": 1446,
     "timeMonth": 1052,
-    "timeYear": 1094,
+    "timeYear": 1096,
     "dailyMinutesDown": {
       "2025-11-18": 148,
       "2025-10-07": 29,
@@ -422,7 +422,7 @@
     "timeDay": 9938,
     "timeWeek": 8898,
     "timeMonth": 5680,
-    "timeYear": 1963,
+    "timeYear": 1967,
     "dailyMinutesDown": {
       "2025-11-26": 55,
       "2025-11-25": 18,
@@ -500,7 +500,7 @@
     "timeDay": 10803,
     "timeWeek": 10949,
     "timeMonth": 11111,
-    "timeYear": 10858,
+    "timeYear": 10859,
     "dailyMinutesDown": {
       "2025-09-16": 291
     }
@@ -520,7 +520,7 @@
     "timeDay": 4750,
     "timeWeek": 4623,
     "timeMonth": 4861,
-    "timeYear": 4956,
+    "timeYear": 4959,
     "dailyMinutesDown": {}
   },
   {
@@ -538,7 +538,7 @@
     "timeDay": 944,
     "timeWeek": 823,
     "timeMonth": 1115,
-    "timeYear": 1353,
+    "timeYear": 1355,
     "dailyMinutesDown": {
       "2025-11-18": 148,
       "2025-11-10": 23,
@@ -570,7 +570,7 @@
     "timeDay": 1997,
     "timeWeek": 1408,
     "timeMonth": 2051,
-    "timeYear": 2853,
+    "timeYear": 2859,
     "dailyMinutesDown": {
       "2025-11-19": 17,
       "2025-11-18": 116,
@@ -661,7 +661,7 @@
     "timeDay": 7938,
     "timeWeek": 5241,
     "timeMonth": 5258,
-    "timeYear": 7386,
+    "timeYear": 7377,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2025-11-10": 23,
@@ -741,7 +741,7 @@
     "timeDay": 9953,
     "timeWeek": 8892,
     "timeMonth": 5496,
-    "timeYear": 2028,
+    "timeYear": 2032,
     "dailyMinutesDown": {
       "2025-11-27": 27,
       "2025-11-26": 95,
@@ -767,7 +767,7 @@
     "timeDay": 1468,
     "timeWeek": 1247,
     "timeMonth": 1441,
-    "timeYear": 1259,
+    "timeYear": 1260,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2025-11-03": 13,
@@ -793,7 +793,7 @@
     "timeDay": 882,
     "timeWeek": 837,
     "timeMonth": 828,
-    "timeYear": 890,
+    "timeYear": 891,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2025-10-24": 13,
@@ -819,7 +819,7 @@
     "timeDay": 10181,
     "timeWeek": 8659,
     "timeMonth": 6526,
-    "timeYear": 2854,
+    "timeYear": 2858,
     "dailyMinutesDown": {
       "2025-11-26": 39,
       "2025-11-25": 17,
@@ -895,7 +895,7 @@
     "timeDay": 863,
     "timeWeek": 890,
     "timeMonth": 982,
-    "timeYear": 923,
+    "timeYear": 924,
     "dailyMinutesDown": {
       "2025-11-18": 178,
       "2025-11-10": 23,
