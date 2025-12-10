@@ -6,7 +6,7 @@
     "slug": "acceso-molinetes-acceso-suterh-org-ar",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "39.14%",
+    "uptimeDay": "61.09%",
     "uptimeWeek": "58.35%",
     "uptimeMonth": "90.17%",
     "uptimeYear": "98.74%",
@@ -14,7 +14,7 @@
     "timeDay": 1850,
     "timeWeek": 6806,
     "timeMonth": 2670,
-    "timeYear": 2191,
+    "timeYear": 2195,
     "dailyMinutesDown": {
       "2025-12-09": 655,
       "2025-12-08": 1440,
@@ -79,7 +79,7 @@
     "timeDay": 10749,
     "timeWeek": 13364,
     "timeMonth": 11491,
-    "timeYear": 7340,
+    "timeYear": 7358,
     "dailyMinutesDown": {
       "2025-04-07": 91,
       "2025-02-13": 198,
@@ -120,7 +120,7 @@
     "timeDay": 1249,
     "timeWeek": 6300,
     "timeMonth": 3640,
-    "timeYear": 1532,
+    "timeYear": 1534,
     "dailyMinutesDown": {
       "2025-12-07": 91,
       "2025-12-06": 202,
@@ -173,7 +173,7 @@
     "timeDay": 714,
     "timeWeek": 6434,
     "timeMonth": 2416,
-    "timeYear": 1091,
+    "timeYear": 1093,
     "dailyMinutesDown": {
       "2025-12-07": 224,
       "2025-12-06": 484,
@@ -201,7 +201,7 @@
     "timeDay": 734,
     "timeWeek": 6451,
     "timeMonth": 2694,
-    "timeYear": 1140,
+    "timeYear": 1141,
     "dailyMinutesDown": {
       "2025-12-07": 223,
       "2025-12-05": 48,
@@ -256,14 +256,14 @@
     "status": "up",
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.72%",
-    "time": 1719,
+    "time": 1916,
     "timeDay": 912,
-    "timeWeek": 837,
+    "timeWeek": 827,
     "timeMonth": 5935,
-    "timeYear": 2185,
+    "timeYear": 2196,
     "dailyMinutesDown": {
       "2025-12-02": 24,
       "2025-11-27": 86,
@@ -338,7 +338,7 @@
     "timeDay": 719,
     "timeWeek": 7660,
     "timeMonth": 2304,
-    "timeYear": 1181,
+    "timeYear": 1183,
     "dailyMinutesDown": {
       "2025-12-07": 304,
       "2025-12-06": 1440,
@@ -373,7 +373,7 @@
     "timeDay": 789,
     "timeWeek": 7626,
     "timeMonth": 6645,
-    "timeYear": 2629,
+    "timeYear": 2634,
     "dailyMinutesDown": {
       "2025-12-07": 103,
       "2025-12-06": 1365,
@@ -404,11 +404,11 @@
     "uptimeWeek": "96.67%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.31%",
-    "time": 1291,
+    "time": 1454,
     "timeDay": 747,
     "timeWeek": 9318,
     "timeMonth": 3388,
-    "timeYear": 1338,
+    "timeYear": 1340,
     "dailyMinutesDown": {
       "2025-12-07": 90,
       "2025-12-06": 186,
@@ -440,7 +440,7 @@
     "timeDay": 723,
     "timeWeek": 7118,
     "timeMonth": 7065,
-    "timeYear": 2611,
+    "timeYear": 2617,
     "dailyMinutesDown": {
       "2025-12-07": 219,
       "2025-12-06": 484,
@@ -526,7 +526,7 @@
     "timeDay": 10776,
     "timeWeek": 12220,
     "timeMonth": 11244,
-    "timeYear": 10899,
+    "timeYear": 10900,
     "dailyMinutesDown": {
       "2025-09-16": 291
     }
@@ -546,7 +546,7 @@
     "timeDay": 10721,
     "timeWeek": 10594,
     "timeMonth": 6053,
-    "timeYear": 5096,
+    "timeYear": 5084,
     "dailyMinutesDown": {}
   },
   {
@@ -564,7 +564,7 @@
     "timeDay": 711,
     "timeWeek": 6434,
     "timeMonth": 2238,
-    "timeYear": 1536,
+    "timeYear": 1539,
     "dailyMinutesDown": {
       "2025-12-07": 215,
       "2025-12-06": 485,
@@ -590,18 +590,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.osperyhra.org.ar.ico",
     "slug": "osra-app-app-osperyhra-org-ar",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "90.54%",
-    "uptimeMonth": "97.47%",
-    "uptimeYear": "99.17%",
+    "uptime": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.65%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "99.18%",
     "time": 2844,
     "timeDay": 1194,
     "timeWeek": 6180,
     "timeMonth": 3187,
-    "timeYear": 2871,
+    "timeYear": 2877,
     "dailyMinutesDown": {
-      "2025-12-09": 11,
       "2025-12-07": 214,
       "2025-12-06": 485,
       "2025-12-05": 243,
@@ -673,7 +672,8 @@
       "2025-02-09": 10,
       "2025-02-08": 23,
       "2025-02-07": 60,
-      "2025-02-06": 30
+      "2025-02-06": 30,
+      "2025-02-05": 6
     }
   },
   {
@@ -691,7 +691,7 @@
     "timeDay": 410,
     "timeWeek": 2185,
     "timeMonth": 4704,
-    "timeYear": 7126,
+    "timeYear": 7119,
     "dailyMinutesDown": {
       "2025-11-18": 149,
       "2025-11-10": 23,
@@ -749,7 +749,7 @@
     "timeDay": 716,
     "timeWeek": 6439,
     "timeMonth": 2150,
-    "timeYear": 954,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2025-12-07": 212,
       "2025-12-06": 483,
@@ -769,7 +769,7 @@
     "slug": "sentry-sentry-octubre-org-ar",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "36.14%",
+    "uptimeDay": "58.11%",
     "uptimeWeek": "62.83%",
     "uptimeMonth": "90.66%",
     "uptimeYear": "99.06%",
@@ -777,7 +777,7 @@
     "timeDay": 455,
     "timeWeek": 5347,
     "timeMonth": 6567,
-    "timeYear": 2541,
+    "timeYear": 2547,
     "dailyMinutesDown": {
       "2025-12-09": 699,
       "2025-12-08": 1440,
@@ -808,7 +808,7 @@
     "timeDay": 1058,
     "timeWeek": 7339,
     "timeMonth": 3047,
-    "timeYear": 1522,
+    "timeYear": 1524,
     "dailyMinutesDown": {
       "2025-12-07": 211,
       "2025-12-06": 483,
@@ -838,7 +838,7 @@
     "timeDay": 728,
     "timeWeek": 8834,
     "timeMonth": 3111,
-    "timeYear": 1240,
+    "timeYear": 1243,
     "dailyMinutesDown": {
       "2025-12-07": 210,
       "2025-12-06": 483,
@@ -859,18 +859,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/octubre.suterh.org.ar.ico",
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "down",
-    "uptime": "96.20%",
+    "uptime": "96.17%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.69%",
-    "uptimeMonth": "83.69%",
-    "uptimeYear": "98.64%",
+    "uptimeWeek": "39.55%",
+    "uptimeMonth": "82.97%",
+    "uptimeYear": "98.58%",
     "time": 3275,
     "timeDay": 7214,
     "timeWeek": 10257,
     "timeMonth": 7842,
-    "timeYear": 3526,
+    "timeYear": 3531,
     "dailyMinutesDown": {
-      "2025-12-09": 1219,
+      "2025-12-10": 96,
+      "2025-12-09": 1440,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -900,7 +901,7 @@
     "timeDay": 545,
     "timeWeek": 561,
     "timeMonth": 597,
-    "timeYear": 737,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2025-12-07": 210,
       "2025-12-06": 484,
@@ -931,7 +932,7 @@
     "timeDay": 390,
     "timeWeek": 636,
     "timeMonth": 528,
-    "timeYear": 534,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2025-11-10": 23,
       "2025-09-30": 9,
@@ -956,7 +957,7 @@
     "timeDay": 766,
     "timeWeek": 7563,
     "timeMonth": 2896,
-    "timeYear": 1237,
+    "timeYear": 1239,
     "dailyMinutesDown": {
       "2025-12-07": 209,
       "2025-12-06": 484,
