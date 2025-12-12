@@ -1,7 +1,7 @@
 url: https://octubre.fateryh.org.ar/api/appstatus
-status: down
-code: 404
-responseTime: 554
-lastUpdated: 2025-12-12T12:18:01.768Z
+status: up
+code: 200
+responseTime: 619
+lastUpdated: 2025-12-12T12:35:15.320Z
 startTime: 2022-04-12T15:19:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
