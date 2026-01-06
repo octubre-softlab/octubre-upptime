@@ -1,7 +1,7 @@
 url: https://octubre.osperyh.org.ar/api/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-06T09:16:25.020Z
+status: up
+code: 200
+responseTime: 4994
+lastUpdated: 2026-01-06T09:44:11.869Z
 startTime: 2022-04-12T15:18:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
