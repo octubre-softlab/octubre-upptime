@@ -1,7 +1,7 @@
 url: https://gitlab.octubre.org.ar/-/readiness?token=$GIT_LAB_TOKEN
 status: up
 code: 200
-responseTime: 928
-lastUpdated: 2026-01-07T01:37:32.766Z
+responseTime: 1125
+lastUpdated: 2026-01-08T01:37:24.484Z
 startTime: 2022-04-22T15:40:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
