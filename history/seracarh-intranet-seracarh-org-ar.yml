@@ -1,7 +1,7 @@
 url: http://intranet.seracarh.org.ar/api/appstatus
-status: down
-code: 522
-responseTime: 19578
-lastUpdated: 2026-01-23T09:57:37.236Z
+status: up
+code: 200
+responseTime: 1309
+lastUpdated: 2026-01-23T12:36:50.049Z
 startTime: 2022-04-12T15:19:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
