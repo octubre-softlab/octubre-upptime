@@ -1,7 +1,7 @@
 url: https://servicios.octubre.org.ar/api/open24os/health
-status: up
-code: 200
-responseTime: 867
-lastUpdated: 2026-01-23T01:38:21.138Z
+status: down
+code: 522
+responseTime: 19930
+lastUpdated: 2026-01-23T09:59:41.481Z
 startTime: 2023-10-06T12:36:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
