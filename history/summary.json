@@ -475,19 +475,19 @@
     "url": "https://app.osperyh.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.osperyh.org.ar.ico",
     "slug": "osperyh-app-app-osperyh-org-ar",
-    "status": "up",
-    "uptime": "98.34%",
-    "uptimeDay": "82.52%",
-    "uptimeWeek": "83.04%",
-    "uptimeMonth": "91.75%",
-    "uptimeYear": "98.34%",
+    "status": "down",
+    "uptime": "98.35%",
+    "uptimeDay": "82.44%",
+    "uptimeWeek": "83.03%",
+    "uptimeMonth": "91.79%",
+    "uptimeYear": "98.35%",
     "time": 6158,
     "timeDay": 4721,
-    "timeWeek": 6160,
+    "timeWeek": 6190,
     "timeMonth": 6391,
     "timeYear": 6158,
     "dailyMinutesDown": {
-      "2026-02-07": 253,
+      "2026-02-07": 254,
       "2026-02-06": 110,
       "2026-02-05": 371,
       "2026-02-04": 262,
@@ -502,8 +502,7 @@
       "2026-01-26": 106,
       "2026-01-25": 262,
       "2026-01-24": 227,
-      "2026-01-23": 369,
-      "2026-01-22": 19
+      "2026-01-23": 369
     }
   },
   {
@@ -541,7 +540,7 @@
     "uptimeYear": "99.56%",
     "time": 5350,
     "timeDay": 8655,
-    "timeWeek": 6739,
+    "timeWeek": 6806,
     "timeMonth": 5940,
     "timeYear": 5568,
     "dailyMinutesDown": {
