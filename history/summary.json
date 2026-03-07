@@ -476,18 +476,19 @@
     "url": "https://app.osperyh.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.osperyh.org.ar.ico",
     "slug": "osperyh-app-app-osperyh-org-ar",
-    "status": "up",
-    "uptime": "96.73%",
-    "uptimeDay": "39.47%",
-    "uptimeWeek": "57.33%",
-    "uptimeMonth": "80.80%",
-    "uptimeYear": "96.73%",
+    "status": "down",
+    "uptime": "96.74%",
+    "uptimeDay": "40.81%",
+    "uptimeWeek": "57.32%",
+    "uptimeMonth": "80.86%",
+    "uptimeYear": "96.74%",
     "time": 6302,
     "timeDay": 10135,
     "timeWeek": 6890,
-    "timeMonth": 6481,
+    "timeMonth": 6490,
     "timeYear": 6302,
     "dailyMinutesDown": {
+      "2026-03-07": 1,
       "2026-03-06": 870,
       "2026-03-05": 932,
       "2026-03-04": 999,
@@ -505,7 +506,7 @@
       "2026-02-20": 190,
       "2026-02-19": 137,
       "2026-02-18": 323,
-      "2026-02-17": 71
+      "2026-02-17": 44
     }
   },
   {
@@ -537,9 +538,9 @@
     "slug": "octubre-osperyh-octubre-osperyh-org-ar",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "41.08%",
-    "uptimeWeek": "66.33%",
-    "uptimeMonth": "83.01%",
+    "uptimeDay": "43.19%",
+    "uptimeWeek": "66.43%",
+    "uptimeMonth": "83.03%",
     "uptimeYear": "98.45%",
     "time": 5494,
     "timeDay": 7003,
@@ -547,7 +548,7 @@
     "timeMonth": 6073,
     "timeYear": 5671,
     "dailyMinutesDown": {
-      "2026-03-06": 847,
+      "2026-03-06": 837,
       "2026-03-05": 749,
       "2026-03-04": 931,
       "2026-03-03": 635,
@@ -584,7 +585,7 @@
       "2026-01-31": 44,
       "2026-01-30": 130,
       "2026-01-29": 19,
-      "2026-01-28": 57
+      "2026-01-28": 88
     }
   },
   {
@@ -702,8 +703,7 @@
       "2025-03-14": 63,
       "2025-03-13": 5,
       "2025-03-12": 7,
-      "2025-03-11": 43,
-      "2025-03-07": 81
+      "2025-03-11": 43
     }
   },
   {
@@ -895,12 +895,12 @@
     "slug": "suterh-octubre-suterh-org-ar",
     "status": "up",
     "uptime": "95.44%",
-    "uptimeDay": "68.49%",
+    "uptimeDay": "69.84%",
     "uptimeWeek": "92.38%",
     "uptimeMonth": "96.60%",
     "uptimeYear": "95.85%",
     "time": 3852,
-    "timeDay": 6921,
+    "timeDay": 6497,
     "timeWeek": 6848,
     "timeMonth": 5912,
     "timeYear": 4580,
