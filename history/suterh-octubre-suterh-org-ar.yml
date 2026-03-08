@@ -1,7 +1,7 @@
 url: https://octubre.suterh.org.ar/api/health
-status: down
-code: 503
-responseTime: 16029
-lastUpdated: 2026-03-08T04:19:22.446Z
+status: up
+code: 200
+responseTime: 9734
+lastUpdated: 2026-03-08T05:20:00.545Z
 startTime: 2023-09-07T19:04:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
