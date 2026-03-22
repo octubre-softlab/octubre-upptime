@@ -475,19 +475,19 @@
     "url": "https://app.osperyh.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.osperyh.org.ar.ico",
     "slug": "osperyh-app-app-osperyh-org-ar",
-    "status": "up",
-    "uptime": "97.42%",
-    "uptimeDay": "67.86%",
-    "uptimeWeek": "73.78%",
-    "uptimeMonth": "83.53%",
-    "uptimeYear": "97.42%",
+    "status": "down",
+    "uptime": "97.77%",
+    "uptimeDay": "67.66%",
+    "uptimeWeek": "73.75%",
+    "uptimeMonth": "85.77%",
+    "uptimeYear": "97.77%",
     "time": 6424,
     "timeDay": 8004,
     "timeWeek": 7452,
     "timeMonth": 6961,
     "timeYear": 6424,
     "dailyMinutesDown": {
-      "2026-03-22": 445,
+      "2026-03-22": 448,
       "2026-03-21": 1109,
       "2026-03-20": 362,
       "2026-03-19": 152,
@@ -505,8 +505,7 @@
       "2026-03-07": 127,
       "2026-03-06": 870,
       "2026-03-05": 932,
-      "2026-03-04": 999,
-      "2026-03-03": 160
+      "2026-03-04": 178
     }
   },
   {
@@ -536,19 +535,19 @@
     "url": "https://octubre.osperyh.org.ar/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/octubre.osperyh.org.ar.ico",
     "slug": "octubre-osperyh-octubre-osperyh-org-ar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "80.17%",
-    "uptimeWeek": "83.20%",
-    "uptimeMonth": "82.03%",
+    "uptimeDay": "80.07%",
+    "uptimeWeek": "83.19%",
+    "uptimeMonth": "82.02%",
     "uptimeYear": "98.20%",
-    "time": 5515,
+    "time": 5517,
     "timeDay": 5746,
     "timeWeek": 5143,
     "timeMonth": 5901,
     "timeYear": 5687,
     "dailyMinutesDown": {
-      "2026-03-22": 285,
+      "2026-03-22": 286,
       "2026-03-21": 1060,
       "2026-03-20": 157,
       "2026-03-19": 69,
@@ -589,7 +588,7 @@
       "2026-02-11": 347,
       "2026-02-10": 27,
       "2026-02-09": 79,
-      "2026-02-08": 100
+      "2026-02-08": 80
     }
   },
   {
