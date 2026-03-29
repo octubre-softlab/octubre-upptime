@@ -1,7 +1,7 @@
 url: https://app.osperyh.org.ar/api/health
-status: up
-code: 200
-responseTime: 21151
-lastUpdated: 2026-03-29T03:41:46.756Z
+status: down
+code: 503
+responseTime: 15164
+lastUpdated: 2026-03-29T04:43:48.780Z
 startTime: 2025-09-09T11:54:18.949Z
 generator: Upptime <https://github.com/upptime/upptime>
